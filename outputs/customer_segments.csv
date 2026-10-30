@@ -1,0 +1,1501 @@
+CustomerID,Recency,Frequency,Monetary,R_Score,F_Score,M_Score,RFM_Score,RFM_Segment,Cluster,Segment
+10001,18,13,10439.7,5,5,5,15,Champions,2,VIP Customers
+10002,19,14,13516.78,5,5,5,15,Champions,2,VIP Customers
+10003,6,18,13055.800000000001,5,5,5,15,Champions,2,VIP Customers
+10004,3,18,13923.27,5,5,5,15,Champions,2,VIP Customers
+10005,13,19,18932.38,5,5,5,15,Champions,2,VIP Customers
+10006,15,20,17741.62,5,5,5,15,Champions,2,VIP Customers
+10007,10,23,24872.37,5,5,5,15,Champions,2,VIP Customers
+10008,6,11,9583.75,5,4,5,14,Champions,2,VIP Customers
+10009,4,19,14871.16,5,5,5,15,Champions,2,VIP Customers
+10010,6,26,29295.27,5,5,5,15,Champions,2,VIP Customers
+10011,17,15,15314.91,5,5,5,15,Champions,2,VIP Customers
+10012,5,17,14298.52,5,5,5,15,Champions,2,VIP Customers
+10013,23,15,12154.76,5,5,5,15,Champions,2,VIP Customers
+10014,1,25,21136.010000000002,5,5,5,15,Champions,2,VIP Customers
+10015,7,17,16695.24,5,5,5,15,Champions,2,VIP Customers
+10016,29,18,17374.25,5,5,5,15,Champions,2,VIP Customers
+10017,29,15,19324.96,5,5,5,15,Champions,2,VIP Customers
+10018,5,22,20728.68,5,5,5,15,Champions,2,VIP Customers
+10019,6,20,20326.82,5,5,5,15,Champions,2,VIP Customers
+10020,17,19,16914.0,5,5,5,15,Champions,2,VIP Customers
+10021,5,20,19804.64,5,5,5,15,Champions,2,VIP Customers
+10022,15,12,11594.79,5,5,5,15,Champions,2,VIP Customers
+10023,18,17,16682.49,5,5,5,15,Champions,2,VIP Customers
+10024,45,15,15278.78,5,5,5,15,Champions,2,VIP Customers
+10025,3,20,16733.44,5,5,5,15,Champions,2,VIP Customers
+10026,15,18,19026.85,5,5,5,15,Champions,2,VIP Customers
+10027,6,18,17760.04,5,5,5,15,Champions,2,VIP Customers
+10028,10,20,17139.4,5,5,5,15,Champions,2,VIP Customers
+10029,5,25,21002.44,5,5,5,15,Champions,2,VIP Customers
+10030,17,19,19186.85,5,5,5,15,Champions,2,VIP Customers
+10031,3,19,21851.87,5,5,5,15,Champions,2,VIP Customers
+10032,23,13,11442.53,5,5,5,15,Champions,2,VIP Customers
+10033,19,17,21792.74,5,5,5,15,Champions,2,VIP Customers
+10034,27,16,13198.27,5,5,5,15,Champions,2,VIP Customers
+10035,24,14,14437.62,5,5,5,15,Champions,2,VIP Customers
+10036,9,15,13965.81,5,5,5,15,Champions,2,VIP Customers
+10037,8,14,15875.13,5,5,5,15,Champions,2,VIP Customers
+10038,5,16,12162.91,5,5,5,15,Champions,2,VIP Customers
+10039,10,19,25139.32,5,5,5,15,Champions,2,VIP Customers
+10040,8,20,16402.89,5,5,5,15,Champions,2,VIP Customers
+10041,14,22,14884.460000000001,5,5,5,15,Champions,2,VIP Customers
+10042,11,12,9663.85,5,5,5,15,Champions,2,VIP Customers
+10043,8,14,15318.33,5,5,5,15,Champions,2,VIP Customers
+10044,7,24,29189.46,5,5,5,15,Champions,2,VIP Customers
+10045,18,13,11430.55,5,5,5,15,Champions,2,VIP Customers
+10046,3,16,17635.12,5,5,5,15,Champions,2,VIP Customers
+10047,27,15,17639.579999999998,5,5,5,15,Champions,2,VIP Customers
+10048,10,17,17109.71,5,5,5,15,Champions,2,VIP Customers
+10049,22,19,19628.0,5,5,5,15,Champions,2,VIP Customers
+10050,14,19,21138.16,5,5,5,15,Champions,2,VIP Customers
+10051,12,19,20254.56,5,5,5,15,Champions,2,VIP Customers
+10052,4,24,25161.44,5,5,5,15,Champions,2,VIP Customers
+10053,13,22,15682.22,5,5,5,15,Champions,2,VIP Customers
+10054,18,19,18377.34,5,5,5,15,Champions,2,VIP Customers
+10055,7,17,15051.35,5,5,5,15,Champions,2,VIP Customers
+10056,11,20,16907.97,5,5,5,15,Champions,2,VIP Customers
+10057,3,22,18786.94,5,5,5,15,Champions,2,VIP Customers
+10058,13,18,24815.41,5,5,5,15,Champions,2,VIP Customers
+10059,12,25,29333.65,5,5,5,15,Champions,2,VIP Customers
+10060,5,24,27695.55,5,5,5,15,Champions,2,VIP Customers
+10061,34,18,21427.11,5,5,5,15,Champions,2,VIP Customers
+10062,16,19,20479.18,5,5,5,15,Champions,2,VIP Customers
+10063,30,19,16609.52,5,5,5,15,Champions,2,VIP Customers
+10064,13,20,17918.52,5,5,5,15,Champions,2,VIP Customers
+10065,14,27,20840.53,5,5,5,15,Champions,2,VIP Customers
+10066,10,21,23699.95,5,5,5,15,Champions,2,VIP Customers
+10067,15,27,29855.98,5,5,5,15,Champions,2,VIP Customers
+10068,31,11,11325.92,5,4,5,14,Champions,2,VIP Customers
+10069,21,23,24223.170000000002,5,5,5,15,Champions,2,VIP Customers
+10070,26,14,11396.25,5,5,5,15,Champions,2,VIP Customers
+10071,5,15,16050.77,5,5,5,15,Champions,2,VIP Customers
+10072,9,19,19046.13,5,5,5,15,Champions,2,VIP Customers
+10073,7,12,15679.81,5,5,5,15,Champions,2,VIP Customers
+10074,19,20,14988.45,5,5,5,15,Champions,2,VIP Customers
+10075,4,21,17743.66,5,5,5,15,Champions,2,VIP Customers
+10076,10,17,13800.800000000001,5,5,5,15,Champions,2,VIP Customers
+10077,15,22,29161.45,5,5,5,15,Champions,2,VIP Customers
+10078,5,22,26393.170000000002,5,5,5,15,Champions,2,VIP Customers
+10079,7,21,20899.83,5,5,5,15,Champions,2,VIP Customers
+10080,8,20,18555.58,5,5,5,15,Champions,2,VIP Customers
+10081,5,20,22929.48,5,5,5,15,Champions,2,VIP Customers
+10082,11,26,32598.5,5,5,5,15,Champions,2,VIP Customers
+10083,28,15,15027.54,5,5,5,15,Champions,2,VIP Customers
+10084,3,13,12750.74,5,5,5,15,Champions,2,VIP Customers
+10085,11,15,15782.54,5,5,5,15,Champions,2,VIP Customers
+10086,2,18,19117.63,5,5,5,15,Champions,2,VIP Customers
+10087,5,30,31117.25,5,5,5,15,Champions,2,VIP Customers
+10088,7,13,9042.68,5,5,5,15,Champions,2,VIP Customers
+10089,19,9,7619.32,5,4,5,14,Champions,2,VIP Customers
+10090,3,19,17843.11,5,5,5,15,Champions,2,VIP Customers
+10091,32,12,10529.1,5,5,5,15,Champions,2,VIP Customers
+10092,4,17,24693.42,5,5,5,15,Champions,2,VIP Customers
+10093,3,16,11417.28,5,5,5,15,Champions,2,VIP Customers
+10094,12,22,19902.78,5,5,5,15,Champions,2,VIP Customers
+10095,11,21,17819.06,5,5,5,15,Champions,2,VIP Customers
+10096,17,19,14916.34,5,5,5,15,Champions,2,VIP Customers
+10097,8,20,23984.7,5,5,5,15,Champions,2,VIP Customers
+10098,16,15,15441.76,5,5,5,15,Champions,2,VIP Customers
+10099,3,17,18403.63,5,5,5,15,Champions,2,VIP Customers
+10100,26,25,25354.87,5,5,5,15,Champions,2,VIP Customers
+10101,8,16,13714.62,5,5,5,15,Champions,2,VIP Customers
+10102,8,22,21290.88,5,5,5,15,Champions,2,VIP Customers
+10103,11,20,17807.49,5,5,5,15,Champions,2,VIP Customers
+10104,6,21,21877.92,5,5,5,15,Champions,2,VIP Customers
+10105,4,20,20531.99,5,5,5,15,Champions,2,VIP Customers
+10106,9,21,22953.04,5,5,5,15,Champions,2,VIP Customers
+10107,4,15,21575.26,5,5,5,15,Champions,2,VIP Customers
+10108,14,28,27488.04,5,5,5,15,Champions,2,VIP Customers
+10109,10,25,32834.46,5,5,5,15,Champions,2,VIP Customers
+10110,2,24,26219.24,5,5,5,15,Champions,2,VIP Customers
+10111,4,16,17871.51,5,5,5,15,Champions,2,VIP Customers
+10112,16,13,11009.02,5,5,5,15,Champions,2,VIP Customers
+10113,11,14,13314.810000000001,5,5,5,15,Champions,2,VIP Customers
+10114,6,16,17976.1,5,5,5,15,Champions,2,VIP Customers
+10115,2,15,15669.11,5,5,5,15,Champions,2,VIP Customers
+10116,13,19,16710.5,5,5,5,15,Champions,2,VIP Customers
+10117,10,16,14371.89,5,5,5,15,Champions,2,VIP Customers
+10118,9,19,20377.94,5,5,5,15,Champions,2,VIP Customers
+10119,7,18,20324.55,5,5,5,15,Champions,2,VIP Customers
+10120,6,18,18776.43,5,5,5,15,Champions,2,VIP Customers
+10121,5,14,12323.64,5,5,5,15,Champions,2,VIP Customers
+10122,8,18,19708.13,5,5,5,15,Champions,2,VIP Customers
+10123,19,17,25216.440000000002,5,5,5,15,Champions,2,VIP Customers
+10124,7,13,13171.46,5,5,5,15,Champions,2,VIP Customers
+10125,19,22,23961.92,5,5,5,15,Champions,2,VIP Customers
+10126,17,8,7203.56,5,4,5,14,Champions,2,VIP Customers
+10127,2,20,17833.14,5,5,5,15,Champions,2,VIP Customers
+10128,7,30,31678.98,5,5,5,15,Champions,2,VIP Customers
+10129,5,15,16739.94,5,5,5,15,Champions,2,VIP Customers
+10130,4,28,22815.44,5,5,5,15,Champions,2,VIP Customers
+10131,8,14,12431.39,5,5,5,15,Champions,2,VIP Customers
+10132,3,19,18157.09,5,5,5,15,Champions,2,VIP Customers
+10133,13,21,20176.96,5,5,5,15,Champions,2,VIP Customers
+10134,17,17,14504.95,5,5,5,15,Champions,2,VIP Customers
+10135,10,16,13165.17,5,5,5,15,Champions,2,VIP Customers
+10136,14,22,19974.56,5,5,5,15,Champions,2,VIP Customers
+10137,35,10,12331.32,5,4,5,14,Champions,2,VIP Customers
+10138,27,15,16235.3,5,5,5,15,Champions,2,VIP Customers
+10139,15,19,17383.11,5,5,5,15,Champions,2,VIP Customers
+10140,18,13,8352.43,5,5,5,15,Champions,2,VIP Customers
+10141,6,21,16367.550000000001,5,5,5,15,Champions,2,VIP Customers
+10142,14,8,9221.06,5,4,5,14,Champions,2,VIP Customers
+10143,2,23,20765.48,5,5,5,15,Champions,2,VIP Customers
+10144,11,12,12300.03,5,5,5,15,Champions,2,VIP Customers
+10145,6,26,20389.920000000002,5,5,5,15,Champions,2,VIP Customers
+10146,22,17,20895.95,5,5,5,15,Champions,2,VIP Customers
+10147,16,20,12281.75,5,5,5,15,Champions,2,VIP Customers
+10148,6,26,32612.16,5,5,5,15,Champions,2,VIP Customers
+10149,25,17,16069.92,5,5,5,15,Champions,2,VIP Customers
+10150,17,17,17319.27,5,5,5,15,Champions,2,VIP Customers
+10151,24,19,25578.25,5,5,5,15,Champions,2,VIP Customers
+10152,5,18,18415.22,5,5,5,15,Champions,2,VIP Customers
+10153,8,16,12139.96,5,5,5,15,Champions,2,VIP Customers
+10154,10,22,20449.93,5,5,5,15,Champions,2,VIP Customers
+10155,13,20,19786.87,5,5,5,15,Champions,2,VIP Customers
+10156,1,14,15264.12,5,5,5,15,Champions,2,VIP Customers
+10157,1,23,20783.07,5,5,5,15,Champions,2,VIP Customers
+10158,15,17,19781.16,5,5,5,15,Champions,2,VIP Customers
+10159,5,22,21562.61,5,5,5,15,Champions,2,VIP Customers
+10160,1,18,24089.07,5,5,5,15,Champions,2,VIP Customers
+10161,21,15,14044.63,5,5,5,15,Champions,2,VIP Customers
+10162,8,14,14798.0,5,5,5,15,Champions,2,VIP Customers
+10163,7,20,19507.14,5,5,5,15,Champions,2,VIP Customers
+10164,27,23,19922.43,5,5,5,15,Champions,2,VIP Customers
+10165,8,10,9947.73,5,4,5,14,Champions,2,VIP Customers
+10166,15,18,20488.22,5,5,5,15,Champions,2,VIP Customers
+10167,15,16,14322.57,5,5,5,15,Champions,2,VIP Customers
+10168,17,15,16513.48,5,5,5,15,Champions,2,VIP Customers
+10169,9,22,23266.75,5,5,5,15,Champions,2,VIP Customers
+10170,10,17,18066.93,5,5,5,15,Champions,2,VIP Customers
+10171,6,21,20825.05,5,5,5,15,Champions,2,VIP Customers
+10172,13,13,10298.22,5,5,5,15,Champions,2,VIP Customers
+10173,3,21,18409.84,5,5,5,15,Champions,2,VIP Customers
+10174,8,17,14945.58,5,5,5,15,Champions,2,VIP Customers
+10175,5,18,21608.92,5,5,5,15,Champions,2,VIP Customers
+10176,21,19,16904.8,5,5,5,15,Champions,2,VIP Customers
+10177,14,16,11234.86,5,5,5,15,Champions,2,VIP Customers
+10178,4,19,18517.39,5,5,5,15,Champions,2,VIP Customers
+10179,21,17,16380.52,5,5,5,15,Champions,2,VIP Customers
+10180,6,18,17171.74,5,5,5,15,Champions,2,VIP Customers
+10181,8,16,13073.539999999999,5,5,5,15,Champions,2,VIP Customers
+10182,6,20,22100.87,5,5,5,15,Champions,2,VIP Customers
+10183,5,15,14678.05,5,5,5,15,Champions,2,VIP Customers
+10184,25,17,13438.35,5,5,5,15,Champions,2,VIP Customers
+10185,13,23,26143.46,5,5,5,15,Champions,2,VIP Customers
+10186,16,14,8067.14,5,5,5,15,Champions,2,VIP Customers
+10187,3,19,23324.44,5,5,5,15,Champions,2,VIP Customers
+10188,22,21,18822.05,5,5,5,15,Champions,2,VIP Customers
+10189,13,22,26974.82,5,5,5,15,Champions,2,VIP Customers
+10190,10,15,14394.17,5,5,5,15,Champions,2,VIP Customers
+10191,20,22,26589.27,5,5,5,15,Champions,2,VIP Customers
+10192,14,21,21343.45,5,5,5,15,Champions,2,VIP Customers
+10193,12,26,23010.3,5,5,5,15,Champions,2,VIP Customers
+10194,23,20,21993.27,5,5,5,15,Champions,2,VIP Customers
+10195,21,13,13901.01,5,5,5,15,Champions,2,VIP Customers
+10196,17,21,20310.170000000002,5,5,5,15,Champions,2,VIP Customers
+10197,6,15,15903.89,5,5,5,15,Champions,2,VIP Customers
+10198,8,19,15335.08,5,5,5,15,Champions,2,VIP Customers
+10199,23,23,26466.06,5,5,5,15,Champions,2,VIP Customers
+10200,12,23,20099.52,5,5,5,15,Champions,2,VIP Customers
+10201,9,18,18588.49,5,5,5,15,Champions,2,VIP Customers
+10202,8,16,12588.77,5,5,5,15,Champions,2,VIP Customers
+10203,8,16,17560.8,5,5,5,15,Champions,2,VIP Customers
+10204,23,13,16780.12,5,5,5,15,Champions,2,VIP Customers
+10205,10,12,8536.03,5,5,5,15,Champions,2,VIP Customers
+10206,15,12,11478.1,5,5,5,15,Champions,2,VIP Customers
+10207,8,16,17280.07,5,5,5,15,Champions,2,VIP Customers
+10208,8,23,22990.41,5,5,5,15,Champions,2,VIP Customers
+10209,12,17,13525.4,5,5,5,15,Champions,2,VIP Customers
+10210,21,29,31951.22,5,5,5,15,Champions,2,VIP Customers
+10211,36,24,30420.27,5,5,5,15,Champions,2,VIP Customers
+10212,18,27,21858.96,5,5,5,15,Champions,2,VIP Customers
+10213,10,14,12929.17,5,5,5,15,Champions,2,VIP Customers
+10214,14,18,19500.03,5,5,5,15,Champions,2,VIP Customers
+10215,3,20,21875.95,5,5,5,15,Champions,2,VIP Customers
+10216,16,16,15805.57,5,5,5,15,Champions,2,VIP Customers
+10217,7,12,6293.71,5,5,5,15,Champions,2,VIP Customers
+10218,9,15,20166.78,5,5,5,15,Champions,2,VIP Customers
+10219,4,15,9059.050000000001,5,5,5,15,Champions,2,VIP Customers
+10220,7,16,14463.880000000001,5,5,5,15,Champions,2,VIP Customers
+10221,23,12,7492.85,5,5,5,15,Champions,2,VIP Customers
+10222,19,17,12115.74,5,5,5,15,Champions,2,VIP Customers
+10223,10,24,22120.28,5,5,5,15,Champions,2,VIP Customers
+10224,14,20,19112.95,5,5,5,15,Champions,2,VIP Customers
+10225,11,20,18989.57,5,5,5,15,Champions,2,VIP Customers
+10226,73,10,4795.35,4,4,5,13,Champions,0,Loyal Customers
+10227,26,5,2214.43,5,3,4,12,Loyal Customers,0,Loyal Customers
+10228,46,11,5280.09,5,4,5,14,Champions,0,Loyal Customers
+10229,58,5,1174.79,4,3,3,10,Loyal Customers,0,Loyal Customers
+10230,105,6,2755.46,3,3,4,10,Loyal Customers,0,Loyal Customers
+10231,80,6,3087.89,4,3,4,11,Loyal Customers,0,Loyal Customers
+10232,58,10,1704.34,4,4,3,11,Champions,0,Loyal Customers
+10233,74,7,3584.23,4,4,4,12,Champions,0,Loyal Customers
+10234,116,5,904.06,3,3,2,8,Loyal Customers,1,Potential / Growing
+10235,15,8,2794.85,5,4,4,13,Champions,0,Loyal Customers
+10236,98,5,1531.57,3,3,3,9,Loyal Customers,0,Loyal Customers
+10237,21,11,2458.88,5,4,4,13,Champions,0,Loyal Customers
+10238,56,4,482.09000000000003,4,3,1,8,Loyal Customers,1,Potential / Growing
+10239,61,8,1858.54,4,4,3,11,Champions,0,Loyal Customers
+10240,68,7,5248.61,4,4,5,13,Champions,0,Loyal Customers
+10241,69,6,1757.24,4,3,3,10,Loyal Customers,0,Loyal Customers
+10242,91,8,1939.07,4,4,3,11,Champions,0,Loyal Customers
+10243,59,12,3201.11,4,5,4,13,Champions,0,Loyal Customers
+10244,22,10,5918.23,5,4,5,14,Champions,2,VIP Customers
+10245,78,8,2592.65,4,4,4,12,Champions,0,Loyal Customers
+10246,94,7,2472.6,3,4,4,11,Loyal Customers,0,Loyal Customers
+10247,50,7,2023.31,4,4,3,11,Champions,0,Loyal Customers
+10248,63,11,3224.25,4,4,4,12,Champions,0,Loyal Customers
+10249,49,7,2030.7199999999998,4,4,3,11,Champions,0,Loyal Customers
+10250,118,3,2028.85,3,2,3,8,Needs Attention,1,Potential / Growing
+10251,90,11,3200.25,4,4,4,12,Champions,0,Loyal Customers
+10252,67,6,1643.9,4,3,3,10,Loyal Customers,0,Loyal Customers
+10253,107,7,1761.1599999999999,3,4,3,10,Loyal Customers,0,Loyal Customers
+10254,84,13,2637.33,4,5,4,13,Champions,0,Loyal Customers
+10255,75,11,3038.43,4,4,4,12,Champions,0,Loyal Customers
+10256,71,9,2423.18,4,4,4,12,Champions,0,Loyal Customers
+10257,30,15,5178.13,5,5,5,15,Champions,0,Loyal Customers
+10258,112,5,948.98,3,3,2,8,Loyal Customers,1,Potential / Growing
+10259,28,10,5740.4,5,4,5,14,Champions,0,Loyal Customers
+10260,134,7,2173.65,3,4,4,11,Loyal Customers,0,Loyal Customers
+10261,94,6,3126.2000000000003,3,3,4,10,Loyal Customers,0,Loyal Customers
+10262,80,8,2794.4300000000003,4,4,4,12,Champions,0,Loyal Customers
+10263,69,12,4383.7300000000005,4,5,5,14,Champions,0,Loyal Customers
+10264,87,7,1947.57,4,4,3,11,Champions,0,Loyal Customers
+10265,95,11,3618.19,3,4,4,11,Loyal Customers,0,Loyal Customers
+10266,14,10,2196.88,5,4,4,13,Champions,0,Loyal Customers
+10267,59,3,1616.6299999999999,4,2,3,9,New / Promising,1,Potential / Growing
+10268,86,7,2469.66,4,4,4,12,Champions,0,Loyal Customers
+10269,54,8,2404.77,4,4,4,12,Champions,0,Loyal Customers
+10270,74,8,2490.31,4,4,4,12,Champions,0,Loyal Customers
+10271,141,4,700.77,3,3,2,8,Loyal Customers,1,Potential / Growing
+10272,46,10,3198.37,5,4,4,13,Champions,0,Loyal Customers
+10273,71,8,2839.96,4,4,4,12,Champions,0,Loyal Customers
+10274,42,9,2674.89,5,4,4,13,Champions,0,Loyal Customers
+10275,60,9,2270.69,4,4,4,12,Champions,0,Loyal Customers
+10276,108,6,2878.94,3,3,4,10,Loyal Customers,0,Loyal Customers
+10277,40,10,2555.41,5,4,4,13,Champions,0,Loyal Customers
+10278,100,12,3997.9700000000003,3,5,5,13,Loyal Customers,0,Loyal Customers
+10279,107,9,1783.78,3,4,3,10,Loyal Customers,0,Loyal Customers
+10280,77,3,318.98,4,2,1,7,New / Promising,1,Potential / Growing
+10281,59,11,3347.0,4,4,4,12,Champions,0,Loyal Customers
+10282,141,4,1232.4,3,3,3,9,Loyal Customers,1,Potential / Growing
+10283,60,11,5499.87,4,4,5,13,Champions,0,Loyal Customers
+10284,39,6,2745.18,5,3,4,12,Loyal Customers,0,Loyal Customers
+10285,114,5,1576.48,3,3,3,9,Loyal Customers,0,Loyal Customers
+10286,60,7,4628.01,4,4,5,13,Champions,0,Loyal Customers
+10287,28,10,1836.27,5,4,3,12,Champions,0,Loyal Customers
+10288,93,7,1613.33,3,4,3,10,Loyal Customers,0,Loyal Customers
+10289,15,11,4394.63,5,4,5,14,Champions,2,VIP Customers
+10290,114,7,589.65,3,4,2,9,Loyal Customers,0,Loyal Customers
+10291,47,12,3952.27,4,5,4,13,Champions,0,Loyal Customers
+10292,66,7,1728.6499999999999,4,4,3,11,Champions,0,Loyal Customers
+10293,66,5,1385.3999999999999,4,3,3,10,Loyal Customers,0,Loyal Customers
+10294,92,4,1095.31,4,3,2,9,Loyal Customers,1,Potential / Growing
+10295,93,10,1886.06,3,4,3,10,Loyal Customers,0,Loyal Customers
+10296,62,9,3067.42,4,4,4,12,Champions,0,Loyal Customers
+10297,63,13,4239.88,4,5,5,14,Champions,0,Loyal Customers
+10298,94,9,2361.15,3,4,4,11,Loyal Customers,0,Loyal Customers
+10299,103,13,1794.01,3,5,3,11,Loyal Customers,0,Loyal Customers
+10300,110,8,2940.89,3,4,4,11,Loyal Customers,0,Loyal Customers
+10301,65,6,2375.25,4,3,4,11,Loyal Customers,0,Loyal Customers
+10302,68,10,4084.5099999999998,4,4,5,13,Champions,0,Loyal Customers
+10303,87,10,5205.66,4,4,5,13,Champions,0,Loyal Customers
+10304,48,10,1794.75,4,4,3,11,Champions,0,Loyal Customers
+10305,87,5,1125.3,4,3,2,9,Loyal Customers,0,Loyal Customers
+10306,50,11,2689.78,4,4,4,12,Champions,0,Loyal Customers
+10307,133,6,1375.94,3,3,3,9,Loyal Customers,0,Loyal Customers
+10308,115,3,2177.12,3,2,4,9,Needs Attention,1,Potential / Growing
+10309,66,2,186.53,4,1,1,6,New / Promising,3,Low Value
+10310,19,11,4316.2699999999995,5,4,5,14,Champions,2,VIP Customers
+10311,77,8,2449.46,4,4,4,12,Champions,0,Loyal Customers
+10312,89,7,2975.15,4,4,4,12,Champions,0,Loyal Customers
+10313,66,6,1925.57,4,3,3,10,Loyal Customers,0,Loyal Customers
+10314,133,4,915.92,3,3,2,8,Loyal Customers,1,Potential / Growing
+10315,65,10,5942.2,4,4,5,13,Champions,0,Loyal Customers
+10316,84,8,2070.87,4,4,3,11,Champions,0,Loyal Customers
+10317,68,9,2819.36,4,4,4,12,Champions,0,Loyal Customers
+10318,44,11,2909.88,5,4,4,13,Champions,0,Loyal Customers
+10319,37,10,2088.01,5,4,3,12,Champions,0,Loyal Customers
+10320,33,4,1224.08,5,3,3,11,Loyal Customers,0,Loyal Customers
+10321,34,6,1719.95,5,3,3,11,Loyal Customers,0,Loyal Customers
+10322,91,15,3665.74,4,5,4,13,Champions,0,Loyal Customers
+10323,35,12,4199.44,5,5,5,15,Champions,0,Loyal Customers
+10324,127,8,2784.09,3,4,4,11,Loyal Customers,0,Loyal Customers
+10325,31,7,1925.49,5,4,3,12,Champions,0,Loyal Customers
+10326,68,6,3924.2,4,3,4,11,Loyal Customers,0,Loyal Customers
+10327,103,10,2734.81,3,4,4,11,Loyal Customers,0,Loyal Customers
+10328,61,12,4312.51,4,5,5,14,Champions,0,Loyal Customers
+10329,83,13,4013.77,4,5,5,14,Champions,0,Loyal Customers
+10330,87,8,1290.57,4,4,3,11,Champions,0,Loyal Customers
+10331,99,7,2375.89,3,4,4,11,Loyal Customers,0,Loyal Customers
+10332,81,8,3991.6,4,4,5,13,Champions,0,Loyal Customers
+10333,81,5,672.7199999999999,4,3,2,9,Loyal Customers,1,Potential / Growing
+10334,145,4,2150.24,3,3,4,10,Loyal Customers,1,Potential / Growing
+10335,67,7,2362.1099999999997,4,4,4,12,Champions,0,Loyal Customers
+10336,92,11,5092.84,4,4,5,13,Champions,0,Loyal Customers
+10337,60,6,2245.02,4,3,4,11,Loyal Customers,0,Loyal Customers
+10338,204,3,937.26,2,2,2,6,About to Sleep,1,Potential / Growing
+10339,64,10,3386.01,4,4,4,12,Champions,0,Loyal Customers
+10340,67,4,1686.82,4,3,3,10,Loyal Customers,0,Loyal Customers
+10341,53,10,2740.58,4,4,4,12,Champions,0,Loyal Customers
+10342,73,11,3201.2799999999997,4,5,4,13,Champions,0,Loyal Customers
+10343,105,8,1977.03,3,4,3,10,Loyal Customers,0,Loyal Customers
+10344,64,10,3668.62,4,4,4,12,Champions,0,Loyal Customers
+10345,69,6,751.27,4,3,2,9,Loyal Customers,0,Loyal Customers
+10346,54,6,2070.25,4,3,3,10,Loyal Customers,0,Loyal Customers
+10347,118,6,1631.9,3,3,3,9,Loyal Customers,0,Loyal Customers
+10348,101,12,3108.77,3,5,4,12,Loyal Customers,0,Loyal Customers
+10349,63,8,3709.97,4,4,4,12,Champions,0,Loyal Customers
+10350,47,9,3439.05,4,4,4,12,Champions,0,Loyal Customers
+10351,58,6,1144.5,4,3,2,9,Loyal Customers,0,Loyal Customers
+10352,61,12,5593.76,4,5,5,14,Champions,0,Loyal Customers
+10353,121,6,2001.37,3,3,3,9,Loyal Customers,0,Loyal Customers
+10354,75,9,1946.3999999999999,4,4,3,11,Champions,0,Loyal Customers
+10355,36,9,2035.56,5,4,3,12,Champions,0,Loyal Customers
+10356,132,11,2508.61,3,5,4,12,Loyal Customers,0,Loyal Customers
+10357,46,2,483.08000000000004,5,1,1,7,New / Promising,1,Potential / Growing
+10358,78,5,1534.04,4,3,3,10,Loyal Customers,0,Loyal Customers
+10359,87,14,5098.84,4,5,5,14,Champions,0,Loyal Customers
+10360,93,5,1591.32,3,3,3,9,Loyal Customers,0,Loyal Customers
+10361,92,10,3670.49,4,4,4,12,Champions,0,Loyal Customers
+10362,94,10,4507.63,3,4,5,12,Loyal Customers,0,Loyal Customers
+10363,103,12,3564.57,3,5,4,12,Loyal Customers,0,Loyal Customers
+10364,73,9,2063.32,4,4,3,11,Champions,0,Loyal Customers
+10365,67,4,1849.2,4,3,3,10,Loyal Customers,0,Loyal Customers
+10366,14,13,3944.84,5,5,4,14,Champions,2,VIP Customers
+10367,66,7,2434.77,4,4,4,12,Champions,0,Loyal Customers
+10368,51,10,2737.8599999999997,4,4,4,12,Champions,0,Loyal Customers
+10369,60,9,3228.6299999999997,4,4,4,12,Champions,0,Loyal Customers
+10370,70,8,2780.2400000000002,4,4,4,12,Champions,0,Loyal Customers
+10371,65,11,2376.06,4,5,4,13,Champions,0,Loyal Customers
+10372,45,8,2879.24,5,4,4,13,Champions,0,Loyal Customers
+10373,92,10,2937.18,4,4,4,12,Champions,0,Loyal Customers
+10374,63,10,3347.24,4,4,4,12,Champions,0,Loyal Customers
+10375,102,10,2456.02,3,4,4,11,Loyal Customers,0,Loyal Customers
+10376,40,6,1914.35,5,3,3,11,Loyal Customers,0,Loyal Customers
+10377,74,11,3690.57,4,5,4,13,Champions,0,Loyal Customers
+10378,108,11,4440.37,3,5,5,13,Loyal Customers,0,Loyal Customers
+10379,91,7,1926.53,4,4,3,11,Champions,0,Loyal Customers
+10380,73,8,3570.94,4,4,4,12,Champions,0,Loyal Customers
+10381,53,11,2079.87,4,5,3,12,Champions,0,Loyal Customers
+10382,119,6,519.73,3,3,1,7,Loyal Customers,1,Potential / Growing
+10383,80,11,3539.38,4,5,4,13,Champions,0,Loyal Customers
+10384,32,11,3635.72,5,5,4,14,Champions,0,Loyal Customers
+10385,84,7,2110.3500000000004,4,4,4,12,Champions,0,Loyal Customers
+10386,29,12,6971.77,5,5,5,15,Champions,2,VIP Customers
+10387,53,8,1753.58,4,4,3,11,Champions,0,Loyal Customers
+10388,36,10,3906.0299999999997,5,4,4,13,Champions,0,Loyal Customers
+10389,41,11,2839.63,5,5,4,14,Champions,0,Loyal Customers
+10390,148,5,784.69,3,3,2,8,Loyal Customers,1,Potential / Growing
+10391,41,6,2163.78,5,3,4,12,Loyal Customers,0,Loyal Customers
+10392,143,9,3228.81,3,4,4,11,Loyal Customers,0,Loyal Customers
+10393,121,9,3419.21,3,4,4,11,Loyal Customers,0,Loyal Customers
+10394,84,9,3180.3799999999997,4,4,4,12,Champions,0,Loyal Customers
+10395,76,13,3294.0699999999997,4,5,4,13,Champions,0,Loyal Customers
+10396,44,8,1764.5900000000001,5,4,3,12,Champions,0,Loyal Customers
+10397,111,7,2089.07,3,4,3,10,Loyal Customers,0,Loyal Customers
+10398,130,7,1520.12,3,4,3,10,Loyal Customers,0,Loyal Customers
+10399,43,5,3155.8,5,3,4,12,Loyal Customers,0,Loyal Customers
+10400,79,9,2674.2200000000003,4,4,4,12,Champions,0,Loyal Customers
+10401,100,8,2941.96,3,4,4,11,Loyal Customers,0,Loyal Customers
+10402,60,10,3803.6800000000003,4,4,4,12,Champions,0,Loyal Customers
+10403,107,3,1761.24,3,2,3,8,Needs Attention,1,Potential / Growing
+10404,45,4,796.09,5,3,2,10,Loyal Customers,0,Loyal Customers
+10405,71,10,4047.24,4,4,5,13,Champions,0,Loyal Customers
+10406,80,4,877.65,4,3,2,9,Loyal Customers,1,Potential / Growing
+10407,66,10,4294.62,4,4,5,13,Champions,0,Loyal Customers
+10408,58,14,4646.81,4,5,5,14,Champions,0,Loyal Customers
+10409,86,5,2119.6400000000003,4,3,4,11,Loyal Customers,0,Loyal Customers
+10410,62,6,2327.54,4,3,4,11,Loyal Customers,0,Loyal Customers
+10411,59,8,3847.44,4,4,4,12,Champions,0,Loyal Customers
+10412,70,5,530.62,4,3,1,8,Loyal Customers,1,Potential / Growing
+10413,80,5,1981.87,4,3,3,10,Loyal Customers,0,Loyal Customers
+10414,28,7,1101.68,5,4,2,11,Champions,0,Loyal Customers
+10415,77,9,3030.37,4,4,4,12,Champions,0,Loyal Customers
+10416,43,11,4959.38,5,5,5,15,Champions,0,Loyal Customers
+10417,128,9,2480.88,3,4,4,11,Loyal Customers,0,Loyal Customers
+10418,96,5,1476.47,3,3,3,9,Loyal Customers,0,Loyal Customers
+10419,64,10,3507.33,4,4,4,12,Champions,0,Loyal Customers
+10420,122,5,1067.42,3,3,2,8,Loyal Customers,1,Potential / Growing
+10421,82,8,2048.8,4,4,3,11,Champions,0,Loyal Customers
+10422,65,6,1500.8,4,3,3,10,Loyal Customers,0,Loyal Customers
+10423,69,6,1722.73,4,3,3,10,Loyal Customers,0,Loyal Customers
+10424,32,10,3202.08,5,4,4,13,Champions,0,Loyal Customers
+10425,167,3,547.51,2,2,2,6,About to Sleep,1,Potential / Growing
+10426,49,8,3630.68,4,4,4,12,Champions,0,Loyal Customers
+10427,102,5,1458.32,3,3,3,9,Loyal Customers,0,Loyal Customers
+10428,67,11,2532.95,4,5,4,13,Champions,0,Loyal Customers
+10429,82,7,3085.4900000000002,4,4,4,12,Champions,0,Loyal Customers
+10430,79,13,4846.96,4,5,5,14,Champions,0,Loyal Customers
+10431,72,5,3190.11,4,3,4,11,Loyal Customers,0,Loyal Customers
+10432,100,5,1270.4199999999998,3,3,3,9,Loyal Customers,0,Loyal Customers
+10433,43,9,3737.9700000000003,5,4,4,13,Champions,0,Loyal Customers
+10434,65,10,2902.53,4,4,4,12,Champions,0,Loyal Customers
+10435,41,10,2867.24,5,4,4,13,Champions,0,Loyal Customers
+10436,74,11,3683.67,4,5,4,13,Champions,0,Loyal Customers
+10437,75,8,2494.3399999999997,4,4,4,12,Champions,0,Loyal Customers
+10438,70,9,1973.04,4,4,3,11,Champions,0,Loyal Customers
+10439,101,5,2050.45,3,3,3,9,Loyal Customers,0,Loyal Customers
+10440,46,12,4024.2400000000002,5,5,5,15,Champions,0,Loyal Customers
+10441,72,12,2364.69,4,5,4,13,Champions,0,Loyal Customers
+10442,32,10,1834.25,5,4,3,12,Champions,0,Loyal Customers
+10443,76,8,2393.51,4,4,4,12,Champions,0,Loyal Customers
+10444,110,8,3178.56,3,4,4,11,Loyal Customers,0,Loyal Customers
+10445,47,15,4442.29,4,5,5,14,Champions,0,Loyal Customers
+10446,64,6,1231.42,4,3,3,10,Loyal Customers,0,Loyal Customers
+10447,60,8,3397.87,4,4,4,12,Champions,0,Loyal Customers
+10448,67,8,3761.66,4,4,4,12,Champions,0,Loyal Customers
+10449,52,9,2906.25,4,4,4,12,Champions,0,Loyal Customers
+10450,125,10,3063.0,3,4,4,11,Loyal Customers,0,Loyal Customers
+10451,91,11,3191.39,4,5,4,13,Champions,0,Loyal Customers
+10452,41,10,4386.66,5,4,5,14,Champions,0,Loyal Customers
+10453,132,9,2789.36,3,4,4,11,Loyal Customers,0,Loyal Customers
+10454,55,13,5128.97,4,5,5,14,Champions,0,Loyal Customers
+10455,63,10,2348.9,4,4,4,12,Champions,0,Loyal Customers
+10456,62,12,4041.84,4,5,5,14,Champions,0,Loyal Customers
+10457,105,8,2956.24,3,4,4,11,Loyal Customers,0,Loyal Customers
+10458,55,11,2447.36,4,5,4,13,Champions,0,Loyal Customers
+10459,126,10,3794.35,3,4,4,11,Loyal Customers,0,Loyal Customers
+10460,86,13,3368.09,4,5,4,13,Champions,0,Loyal Customers
+10461,132,4,2160.36,3,3,4,10,Loyal Customers,1,Potential / Growing
+10462,77,5,869.85,4,3,2,9,Loyal Customers,0,Loyal Customers
+10463,11,8,3463.58,5,4,4,13,Champions,2,VIP Customers
+10464,53,5,1165.98,4,3,3,10,Loyal Customers,0,Loyal Customers
+10465,28,9,2889.69,5,4,4,13,Champions,0,Loyal Customers
+10466,49,8,2272.63,4,4,4,12,Champions,0,Loyal Customers
+10467,44,11,1840.21,5,5,3,13,Champions,0,Loyal Customers
+10468,88,8,1110.72,4,4,2,10,Champions,0,Loyal Customers
+10469,62,4,1040.05,4,3,2,9,Loyal Customers,0,Loyal Customers
+10470,137,6,2580.84,3,3,4,10,Loyal Customers,0,Loyal Customers
+10471,58,11,2439.38,4,5,4,13,Champions,0,Loyal Customers
+10472,71,9,3453.31,4,4,4,12,Champions,0,Loyal Customers
+10473,34,5,1759.33,5,3,3,11,Loyal Customers,0,Loyal Customers
+10474,60,5,1333.13,4,3,3,10,Loyal Customers,0,Loyal Customers
+10475,41,6,3720.77,5,3,4,12,Loyal Customers,0,Loyal Customers
+10476,95,6,1932.45,3,3,3,9,Loyal Customers,0,Loyal Customers
+10477,66,13,6634.26,4,5,5,14,Champions,0,Loyal Customers
+10478,102,7,3321.64,3,4,4,11,Loyal Customers,0,Loyal Customers
+10479,56,4,1328.05,4,3,3,10,Loyal Customers,0,Loyal Customers
+10480,102,10,4924.25,3,4,5,12,Loyal Customers,0,Loyal Customers
+10481,77,6,1071.57,4,3,2,9,Loyal Customers,0,Loyal Customers
+10482,75,10,2114.19,4,4,4,12,Champions,0,Loyal Customers
+10483,163,1,761.03,3,1,2,6,Needs Attention,1,Potential / Growing
+10484,41,6,1035.63,5,3,2,10,Loyal Customers,0,Loyal Customers
+10485,42,11,2824.42,5,5,4,14,Champions,0,Loyal Customers
+10486,58,13,4601.98,4,5,5,14,Champions,0,Loyal Customers
+10487,31,11,1628.8,5,5,3,13,Champions,0,Loyal Customers
+10488,55,9,3076.7799999999997,4,4,4,12,Champions,0,Loyal Customers
+10489,40,9,3146.4,5,4,4,13,Champions,0,Loyal Customers
+10490,32,20,4301.41,5,5,5,15,Champions,2,VIP Customers
+10491,154,8,1578.25,3,4,3,10,Loyal Customers,0,Loyal Customers
+10492,52,11,2760.92,4,5,4,13,Champions,0,Loyal Customers
+10493,34,9,2595.04,5,4,4,13,Champions,0,Loyal Customers
+10494,71,8,4471.41,4,4,5,13,Champions,0,Loyal Customers
+10495,65,6,1775.65,4,3,3,10,Loyal Customers,0,Loyal Customers
+10496,67,6,3494.41,4,3,4,11,Loyal Customers,0,Loyal Customers
+10497,52,12,4022.29,4,5,5,14,Champions,0,Loyal Customers
+10498,75,6,2197.68,4,3,4,11,Loyal Customers,0,Loyal Customers
+10499,63,8,2294.09,4,4,4,12,Champions,0,Loyal Customers
+10500,89,11,4314.56,4,5,5,14,Champions,0,Loyal Customers
+10501,42,7,1799.2,5,4,3,12,Champions,0,Loyal Customers
+10502,109,8,1655.72,3,4,3,10,Loyal Customers,0,Loyal Customers
+10503,39,16,3670.0699999999997,5,5,4,14,Champions,0,Loyal Customers
+10504,50,13,7885.889999999999,4,5,5,14,Champions,0,Loyal Customers
+10505,58,9,2706.54,4,4,4,12,Champions,0,Loyal Customers
+10506,60,10,2266.56,4,4,4,12,Champions,0,Loyal Customers
+10507,56,9,2988.55,4,4,4,12,Champions,0,Loyal Customers
+10508,69,8,2823.84,4,4,4,12,Champions,0,Loyal Customers
+10509,94,10,2238.72,3,4,4,11,Loyal Customers,0,Loyal Customers
+10510,47,12,3188.45,4,5,4,13,Champions,0,Loyal Customers
+10511,91,8,5482.58,4,4,5,13,Champions,0,Loyal Customers
+10512,132,9,4844.84,3,4,5,12,Loyal Customers,0,Loyal Customers
+10513,56,15,3715.06,4,5,4,13,Champions,0,Loyal Customers
+10514,72,7,4136.19,4,4,5,13,Champions,0,Loyal Customers
+10515,47,6,1932.84,4,3,3,10,Loyal Customers,0,Loyal Customers
+10516,114,11,3880.1,3,5,4,12,Loyal Customers,0,Loyal Customers
+10517,132,6,1538.87,3,3,3,9,Loyal Customers,0,Loyal Customers
+10518,54,9,1854.11,4,4,3,11,Champions,0,Loyal Customers
+10519,170,5,4891.72,2,3,5,10,About to Sleep,0,Loyal Customers
+10520,82,7,1393.86,4,4,3,11,Champions,0,Loyal Customers
+10521,58,9,2878.92,4,4,4,12,Champions,0,Loyal Customers
+10522,79,9,3444.2,4,4,4,12,Champions,0,Loyal Customers
+10523,113,5,1542.82,3,3,3,9,Loyal Customers,0,Loyal Customers
+10524,136,10,989.57,3,4,2,9,Loyal Customers,0,Loyal Customers
+10525,93,11,4383.64,3,5,5,13,Loyal Customers,0,Loyal Customers
+10526,133,5,1353.2,3,3,3,9,Loyal Customers,1,Potential / Growing
+10527,61,7,1871.6999999999998,4,4,3,11,Champions,0,Loyal Customers
+10528,37,8,1827.18,5,4,3,12,Champions,0,Loyal Customers
+10529,119,5,1128.79,3,3,2,8,Loyal Customers,1,Potential / Growing
+10530,119,8,2013.54,3,4,3,10,Loyal Customers,0,Loyal Customers
+10531,120,8,2022.33,3,4,3,10,Loyal Customers,0,Loyal Customers
+10532,30,9,2128.44,5,4,4,13,Champions,0,Loyal Customers
+10533,108,6,1414.33,3,3,3,9,Loyal Customers,0,Loyal Customers
+10534,104,6,2067.28,3,3,3,9,Loyal Customers,0,Loyal Customers
+10535,87,6,1312.79,4,3,3,10,Loyal Customers,0,Loyal Customers
+10536,45,9,3012.3199999999997,5,4,4,13,Champions,0,Loyal Customers
+10537,160,6,1764.01,3,3,3,9,Loyal Customers,0,Loyal Customers
+10538,73,7,2910.31,4,4,4,12,Champions,0,Loyal Customers
+10539,107,6,3701.6,3,3,4,10,Loyal Customers,0,Loyal Customers
+10540,65,9,2084.76,4,4,3,11,Champions,0,Loyal Customers
+10541,69,9,3139.87,4,4,4,12,Champions,0,Loyal Customers
+10542,72,4,571.27,4,3,2,9,Loyal Customers,1,Potential / Growing
+10543,50,10,2027.74,4,4,3,11,Champions,0,Loyal Customers
+10544,51,12,3482.42,4,5,4,13,Champions,0,Loyal Customers
+10545,57,6,1320.26,4,3,3,10,Loyal Customers,0,Loyal Customers
+10546,114,7,2322.83,3,4,4,11,Loyal Customers,0,Loyal Customers
+10547,9,10,3468.35,5,4,4,13,Champions,2,VIP Customers
+10548,89,10,3131.5099999999998,4,4,4,12,Champions,0,Loyal Customers
+10549,117,7,1591.06,3,4,3,10,Loyal Customers,0,Loyal Customers
+10550,119,13,3651.7,3,5,4,12,Loyal Customers,0,Loyal Customers
+10551,102,6,1529.27,3,3,3,9,Loyal Customers,0,Loyal Customers
+10552,108,2,647.77,3,1,2,6,Needs Attention,1,Potential / Growing
+10553,58,10,3020.31,4,4,4,12,Champions,0,Loyal Customers
+10554,115,5,1023.1700000000001,3,3,2,8,Loyal Customers,1,Potential / Growing
+10555,135,7,1298.1499999999999,3,4,3,10,Loyal Customers,0,Loyal Customers
+10556,64,7,2570.32,4,4,4,12,Champions,0,Loyal Customers
+10557,74,6,2225.5299999999997,4,3,4,11,Loyal Customers,0,Loyal Customers
+10558,26,11,3554.99,5,5,4,14,Champions,0,Loyal Customers
+10559,90,11,3613.74,4,5,4,13,Champions,0,Loyal Customers
+10560,68,8,5411.889999999999,4,4,5,13,Champions,0,Loyal Customers
+10561,92,6,1673.67,4,4,3,11,Champions,0,Loyal Customers
+10562,46,12,3706.61,5,5,4,14,Champions,0,Loyal Customers
+10563,86,9,3358.51,4,4,4,12,Champions,0,Loyal Customers
+10564,67,12,2474.81,4,5,4,13,Champions,0,Loyal Customers
+10565,117,8,3801.23,3,4,4,11,Loyal Customers,0,Loyal Customers
+10566,48,7,3528.49,4,4,4,12,Champions,0,Loyal Customers
+10567,67,8,2157.06,4,4,4,12,Champions,0,Loyal Customers
+10568,64,10,5650.35,4,4,5,13,Champions,0,Loyal Customers
+10569,114,4,562.28,3,3,2,8,Loyal Customers,1,Potential / Growing
+10570,54,5,2200.0499999999997,4,3,4,11,Loyal Customers,0,Loyal Customers
+10571,89,8,2174.25,4,4,4,12,Champions,0,Loyal Customers
+10572,76,7,1637.87,4,4,3,11,Champions,0,Loyal Customers
+10573,81,5,902.75,4,3,2,9,Loyal Customers,0,Loyal Customers
+10574,60,7,2766.17,4,4,4,12,Champions,0,Loyal Customers
+10575,71,6,1403.6399999999999,4,4,3,11,Champions,0,Loyal Customers
+10576,42,5,1355.23,5,3,3,11,Loyal Customers,0,Loyal Customers
+10577,74,3,943.52,4,2,2,8,New / Promising,1,Potential / Growing
+10578,46,11,4948.46,5,5,5,15,Champions,0,Loyal Customers
+10579,78,6,1801.02,4,4,3,11,Champions,0,Loyal Customers
+10580,129,7,2257.83,3,4,4,11,Loyal Customers,0,Loyal Customers
+10581,131,5,2036.19,3,3,3,9,Loyal Customers,0,Loyal Customers
+10582,130,7,1709.47,3,4,3,10,Loyal Customers,0,Loyal Customers
+10583,102,6,2369.83,3,4,4,11,Loyal Customers,0,Loyal Customers
+10584,92,8,3099.95,4,4,4,12,Champions,0,Loyal Customers
+10585,79,10,2210.21,4,4,4,12,Champions,0,Loyal Customers
+10586,65,4,675.27,4,3,2,9,Loyal Customers,1,Potential / Growing
+10587,59,10,2433.99,4,4,4,12,Champions,0,Loyal Customers
+10588,57,7,1831.61,4,4,3,11,Champions,0,Loyal Customers
+10589,49,11,4283.13,4,5,5,14,Champions,0,Loyal Customers
+10590,46,7,1403.08,5,4,3,12,Champions,0,Loyal Customers
+10591,147,8,2330.37,3,4,4,11,Loyal Customers,0,Loyal Customers
+10592,74,6,1174.07,4,4,3,11,Champions,0,Loyal Customers
+10593,85,5,529.14,4,3,1,8,Loyal Customers,1,Potential / Growing
+10594,65,4,770.13,4,3,2,9,Loyal Customers,1,Potential / Growing
+10595,38,11,2712.59,5,5,4,14,Champions,0,Loyal Customers
+10596,62,7,2355.65,4,4,4,12,Champions,0,Loyal Customers
+10597,77,11,6038.75,4,5,5,14,Champions,0,Loyal Customers
+10598,67,7,2374.06,4,4,4,12,Champions,0,Loyal Customers
+10599,42,6,3381.16,5,4,4,13,Champions,0,Loyal Customers
+10600,36,8,2476.65,5,4,4,13,Champions,0,Loyal Customers
+10601,99,7,1254.23,3,4,3,10,Loyal Customers,0,Loyal Customers
+10602,120,5,1443.06,3,3,3,9,Loyal Customers,1,Potential / Growing
+10603,76,14,3988.64,4,5,5,14,Champions,0,Loyal Customers
+10604,63,7,2971.03,4,4,4,12,Champions,0,Loyal Customers
+10605,93,9,4805.24,3,4,5,12,Loyal Customers,0,Loyal Customers
+10606,48,8,2322.45,4,4,4,12,Champions,0,Loyal Customers
+10607,78,7,1758.58,4,4,3,11,Champions,0,Loyal Customers
+10608,49,8,2546.64,4,4,4,12,Champions,0,Loyal Customers
+10609,30,10,2818.7799999999997,5,4,4,13,Champions,0,Loyal Customers
+10610,136,4,872.91,3,3,2,8,Loyal Customers,1,Potential / Growing
+10611,137,6,3459.69,3,4,4,11,Loyal Customers,0,Loyal Customers
+10612,23,10,4565.400000000001,5,4,5,14,Champions,0,Loyal Customers
+10613,89,9,2306.73,4,4,4,12,Champions,0,Loyal Customers
+10614,54,10,3054.9900000000002,4,4,4,12,Champions,0,Loyal Customers
+10615,65,9,2028.32,4,4,3,11,Champions,0,Loyal Customers
+10616,177,3,1525.97,2,2,3,7,About to Sleep,1,Potential / Growing
+10617,60,12,4286.6,4,5,5,14,Champions,0,Loyal Customers
+10618,78,11,2452.17,4,5,4,13,Champions,0,Loyal Customers
+10619,135,8,2459.77,3,4,4,11,Loyal Customers,0,Loyal Customers
+10620,53,11,4736.09,4,5,5,14,Champions,0,Loyal Customers
+10621,49,9,1075.37,4,4,2,10,Champions,0,Loyal Customers
+10622,112,6,1134.78,3,4,2,9,Loyal Customers,0,Loyal Customers
+10623,100,7,2733.92,3,4,4,11,Loyal Customers,0,Loyal Customers
+10624,77,6,899.76,4,4,2,10,Champions,0,Loyal Customers
+10625,74,7,2099.54,4,4,3,11,Champions,0,Loyal Customers
+10626,59,5,2912.0299999999997,4,3,4,11,Loyal Customers,0,Loyal Customers
+10627,67,7,2202.02,4,4,4,12,Champions,0,Loyal Customers
+10628,112,4,1505.46,3,3,3,9,Loyal Customers,1,Potential / Growing
+10629,53,9,2842.7999999999997,4,4,4,12,Champions,0,Loyal Customers
+10630,22,10,2839.24,5,4,4,13,Champions,0,Loyal Customers
+10631,88,8,2788.98,4,4,4,12,Champions,0,Loyal Customers
+10632,77,7,2167.89,4,4,4,12,Champions,0,Loyal Customers
+10633,75,10,3393.0299999999997,4,4,4,12,Champions,0,Loyal Customers
+10634,73,6,2867.18,4,4,4,12,Champions,0,Loyal Customers
+10635,86,8,1222.44,4,4,3,11,Champions,0,Loyal Customers
+10636,39,7,1640.1200000000001,5,4,3,12,Champions,0,Loyal Customers
+10637,28,5,925.9599999999999,5,3,2,10,Loyal Customers,0,Loyal Customers
+10638,59,11,3957.27,4,5,5,14,Champions,0,Loyal Customers
+10639,94,11,1974.82,3,5,3,11,Loyal Customers,0,Loyal Customers
+10640,17,7,1756.44,5,4,3,12,Champions,0,Loyal Customers
+10641,128,4,1008.5500000000001,3,3,2,8,Loyal Customers,1,Potential / Growing
+10642,59,8,2443.42,4,4,4,12,Champions,0,Loyal Customers
+10643,72,6,1168.53,4,4,3,11,Champions,0,Loyal Customers
+10644,21,11,2162.65,5,5,4,14,Champions,0,Loyal Customers
+10645,88,7,1576.94,4,4,3,11,Champions,0,Loyal Customers
+10646,44,7,2814.15,5,4,4,13,Champions,0,Loyal Customers
+10647,94,9,1664.74,3,4,3,10,Loyal Customers,0,Loyal Customers
+10648,29,10,3223.21,5,4,4,13,Champions,0,Loyal Customers
+10649,125,8,3049.35,3,4,4,11,Loyal Customers,0,Loyal Customers
+10650,84,7,2339.72,4,4,4,12,Champions,0,Loyal Customers
+10651,44,8,3954.64,5,4,4,13,Champions,0,Loyal Customers
+10652,87,11,2778.73,4,5,4,13,Champions,0,Loyal Customers
+10653,55,7,2134.94,4,4,4,12,Champions,0,Loyal Customers
+10654,84,13,4969.889999999999,4,5,5,14,Champions,0,Loyal Customers
+10655,140,7,2339.95,3,4,4,11,Loyal Customers,0,Loyal Customers
+10656,24,12,5113.75,5,5,5,15,Champions,2,VIP Customers
+10657,86,7,1747.82,4,4,3,11,Champions,0,Loyal Customers
+10658,71,6,1646.98,4,4,3,11,Champions,0,Loyal Customers
+10659,23,7,2682.77,5,4,4,13,Champions,0,Loyal Customers
+10660,86,8,3350.08,4,4,4,12,Champions,0,Loyal Customers
+10661,88,13,3267.39,4,5,4,13,Champions,0,Loyal Customers
+10662,62,14,3363.51,4,5,4,13,Champions,0,Loyal Customers
+10663,56,8,1562.43,4,4,3,11,Champions,0,Loyal Customers
+10664,52,17,3929.68,4,5,4,13,Champions,0,Loyal Customers
+10665,94,10,3338.32,3,4,4,11,Loyal Customers,0,Loyal Customers
+10666,98,7,1672.54,3,4,3,10,Loyal Customers,0,Loyal Customers
+10667,47,9,3113.34,4,4,4,12,Champions,0,Loyal Customers
+10668,73,15,5030.36,4,5,5,14,Champions,0,Loyal Customers
+10669,119,9,2310.9700000000003,3,4,4,11,Loyal Customers,0,Loyal Customers
+10670,68,6,2502.13,4,4,4,12,Champions,0,Loyal Customers
+10671,68,14,5198.49,4,5,5,14,Champions,0,Loyal Customers
+10672,78,6,3057.96,4,4,4,12,Champions,0,Loyal Customers
+10673,51,4,1512.18,4,3,3,10,Loyal Customers,0,Loyal Customers
+10674,104,7,2750.81,3,4,4,11,Loyal Customers,0,Loyal Customers
+10675,55,8,3525.61,4,4,4,12,Champions,0,Loyal Customers
+10676,269,2,612.76,1,1,2,4,Lost,1,Potential / Growing
+10677,112,6,2422.81,3,4,4,11,Loyal Customers,0,Loyal Customers
+10678,40,4,1547.8600000000001,5,3,3,11,Loyal Customers,0,Loyal Customers
+10679,144,3,534.01,3,2,1,6,Needs Attention,1,Potential / Growing
+10680,104,5,2631.12,3,3,4,10,Loyal Customers,0,Loyal Customers
+10681,324,1,742.1299999999999,1,1,2,4,Lost,3,Low Value
+10682,152,5,1337.1100000000001,3,3,3,9,Loyal Customers,1,Potential / Growing
+10683,186,3,1145.34,2,2,2,6,About to Sleep,1,Potential / Growing
+10684,85,7,2872.2400000000002,4,4,4,12,Champions,0,Loyal Customers
+10685,172,1,670.55,2,1,2,5,Lost,3,Low Value
+10686,117,1,942.03,3,1,2,6,Needs Attention,1,Potential / Growing
+10687,117,3,779.95,3,2,2,7,Needs Attention,1,Potential / Growing
+10688,166,1,42.87,2,1,1,4,Lost,3,Low Value
+10689,167,4,979.49,2,3,2,7,About to Sleep,1,Potential / Growing
+10690,97,3,592.19,3,2,2,7,Needs Attention,1,Potential / Growing
+10691,92,4,1211.01,4,3,3,10,Loyal Customers,1,Potential / Growing
+10692,259,1,246.02,2,1,1,4,Lost,3,Low Value
+10693,228,3,494.63000000000005,2,2,1,5,About to Sleep,1,Potential / Growing
+10694,224,1,161.39,2,1,1,4,Lost,3,Low Value
+10695,93,4,1313.17,3,3,3,9,Loyal Customers,1,Potential / Growing
+10696,135,2,551.5699999999999,3,1,2,6,Needs Attention,1,Potential / Growing
+10697,192,3,717.25,2,2,2,6,About to Sleep,1,Potential / Growing
+10698,82,5,1256.3,4,3,3,10,Loyal Customers,0,Loyal Customers
+10699,220,2,707.06,2,1,2,5,Lost,1,Potential / Growing
+10700,51,1,271.58,4,1,1,6,New / Promising,3,Low Value
+10701,171,2,345.34000000000003,2,1,1,4,Lost,3,Low Value
+10702,214,5,1731.46,2,3,3,8,About to Sleep,1,Potential / Growing
+10703,148,5,1935.1100000000001,3,3,3,9,Loyal Customers,1,Potential / Growing
+10704,253,1,260.15999999999997,2,1,1,4,Lost,3,Low Value
+10705,242,1,610.0600000000001,2,1,2,5,Lost,3,Low Value
+10706,204,3,1423.8600000000001,2,2,3,7,About to Sleep,1,Potential / Growing
+10707,147,1,807.2,3,1,2,6,Needs Attention,1,Potential / Growing
+10708,95,2,368.94999999999993,3,1,1,5,Needs Attention,3,Low Value
+10709,181,5,1071.09,2,3,2,7,About to Sleep,1,Potential / Growing
+10710,183,3,677.8,2,2,2,6,About to Sleep,1,Potential / Growing
+10711,101,1,100.04,3,1,1,5,Needs Attention,3,Low Value
+10712,105,2,477.95000000000005,3,1,1,5,Needs Attention,1,Potential / Growing
+10713,165,7,1864.75,3,4,3,10,Loyal Customers,0,Loyal Customers
+10714,125,3,1086.38,3,2,2,7,Needs Attention,1,Potential / Growing
+10715,260,2,837.9599999999999,1,1,2,4,Lost,1,Potential / Growing
+10716,80,4,647.83,4,3,2,9,Loyal Customers,1,Potential / Growing
+10717,147,2,64.99000000000001,3,1,1,5,Needs Attention,3,Low Value
+10718,194,3,835.5,2,2,2,6,About to Sleep,1,Potential / Growing
+10719,133,4,509.68000000000006,3,3,1,7,Loyal Customers,1,Potential / Growing
+10720,201,2,890.4100000000001,2,1,2,5,Lost,1,Potential / Growing
+10721,105,2,865.67,3,1,2,6,Needs Attention,1,Potential / Growing
+10722,186,2,629.75,2,1,2,5,Lost,1,Potential / Growing
+10723,281,1,99.5,1,1,1,3,Lost,3,Low Value
+10724,182,4,715.3900000000001,2,3,2,7,About to Sleep,1,Potential / Growing
+10725,260,1,154.6,1,1,1,3,Lost,3,Low Value
+10726,167,7,2311.7599999999998,2,4,4,10,At Risk,0,Loyal Customers
+10727,126,6,2021.99,3,4,3,10,Loyal Customers,0,Loyal Customers
+10728,128,3,389.07,3,2,1,6,Needs Attention,1,Potential / Growing
+10729,108,3,621.4399999999999,3,2,2,7,Needs Attention,1,Potential / Growing
+10730,231,3,701.44,2,2,2,6,About to Sleep,1,Potential / Growing
+10731,170,5,876.59,2,3,2,7,About to Sleep,1,Potential / Growing
+10732,116,6,1479.82,3,4,3,10,Loyal Customers,0,Loyal Customers
+10733,141,7,1888.6200000000001,3,4,3,10,Loyal Customers,0,Loyal Customers
+10734,202,2,877.94,2,1,2,5,Lost,1,Potential / Growing
+10735,229,2,409.85,2,1,1,4,Lost,3,Low Value
+10736,144,3,852.27,3,2,2,7,Needs Attention,1,Potential / Growing
+10737,220,1,283.26,2,1,1,4,Lost,3,Low Value
+10738,151,6,1767.58,3,4,3,10,Loyal Customers,0,Loyal Customers
+10739,97,4,1513.3,3,3,3,9,Loyal Customers,1,Potential / Growing
+10740,202,6,1605.4,2,4,3,9,At Risk,1,Potential / Growing
+10741,173,2,312.91999999999996,2,1,1,4,Lost,3,Low Value
+10742,90,3,1659.39,4,2,3,9,New / Promising,1,Potential / Growing
+10743,91,3,1078.47,4,2,2,8,New / Promising,1,Potential / Growing
+10744,222,1,352.35,2,1,1,4,Lost,3,Low Value
+10745,106,8,1529.4,3,4,3,10,Loyal Customers,0,Loyal Customers
+10746,203,1,429.56,2,1,1,4,Lost,3,Low Value
+10747,152,2,275.03999999999996,3,1,1,5,Needs Attention,3,Low Value
+10748,139,3,2100.83,3,2,3,8,Needs Attention,1,Potential / Growing
+10749,129,4,1403.33,3,3,3,9,Loyal Customers,1,Potential / Growing
+10750,61,5,696.6600000000001,4,3,2,9,Loyal Customers,0,Loyal Customers
+10751,119,6,2229.93,3,4,4,11,Loyal Customers,0,Loyal Customers
+10752,107,6,1949.1699999999998,3,4,3,10,Loyal Customers,0,Loyal Customers
+10753,62,5,1683.34,4,3,3,10,Loyal Customers,0,Loyal Customers
+10754,206,3,683.92,2,2,2,6,About to Sleep,1,Potential / Growing
+10755,92,4,1621.58,4,3,3,10,Loyal Customers,1,Potential / Growing
+10756,306,1,618.64,1,1,2,4,Lost,3,Low Value
+10757,173,3,827.3,2,2,2,6,About to Sleep,1,Potential / Growing
+10758,230,4,1088.5,2,3,2,7,About to Sleep,1,Potential / Growing
+10759,173,1,465.62,2,1,1,4,Lost,3,Low Value
+10760,269,1,316.82,1,1,1,3,Lost,3,Low Value
+10761,161,2,274.69,3,1,1,5,Needs Attention,3,Low Value
+10762,236,5,1365.39,2,3,3,8,About to Sleep,1,Potential / Growing
+10763,96,3,657.1600000000001,3,2,2,7,Needs Attention,1,Potential / Growing
+10764,81,3,1013.81,4,2,2,8,New / Promising,1,Potential / Growing
+10765,210,3,428.58000000000004,2,2,1,5,About to Sleep,1,Potential / Growing
+10766,65,3,472.06,4,2,1,7,New / Promising,1,Potential / Growing
+10767,92,5,956.64,4,3,2,9,Loyal Customers,0,Loyal Customers
+10768,237,3,602.6800000000001,2,2,2,6,About to Sleep,1,Potential / Growing
+10769,186,1,19.72,2,1,1,4,Lost,3,Low Value
+10770,106,3,746.89,3,2,2,7,Needs Attention,1,Potential / Growing
+10771,67,5,1725.04,4,3,3,10,Loyal Customers,0,Loyal Customers
+10772,86,6,2239.5,4,4,4,12,Champions,0,Loyal Customers
+10773,141,4,258.62,3,3,1,7,Loyal Customers,1,Potential / Growing
+10774,275,1,193.85,1,1,1,3,Lost,3,Low Value
+10775,169,2,161.10999999999999,2,1,1,4,Lost,3,Low Value
+10776,214,3,360.44,2,2,1,5,About to Sleep,1,Potential / Growing
+10777,149,2,1290.17,3,1,3,7,Needs Attention,1,Potential / Growing
+10778,117,5,953.27,3,3,2,8,Loyal Customers,1,Potential / Growing
+10779,158,4,1931.68,3,3,3,9,Loyal Customers,1,Potential / Growing
+10780,189,2,1171.56,2,1,3,6,Lost,1,Potential / Growing
+10781,125,3,1437.29,3,2,3,8,Needs Attention,1,Potential / Growing
+10782,200,4,1490.08,2,3,3,8,About to Sleep,1,Potential / Growing
+10783,169,3,782.5600000000001,2,2,2,6,About to Sleep,1,Potential / Growing
+10784,118,1,541.83,3,1,1,5,Needs Attention,3,Low Value
+10785,165,2,258.93,3,1,1,5,Needs Attention,3,Low Value
+10786,106,4,1090.9,3,3,2,8,Loyal Customers,1,Potential / Growing
+10787,153,6,1466.59,3,4,3,10,Loyal Customers,0,Loyal Customers
+10788,94,5,2269.42,3,3,4,10,Loyal Customers,0,Loyal Customers
+10789,223,1,58.800000000000004,2,1,1,4,Lost,3,Low Value
+10790,154,5,1015.6700000000001,3,3,2,8,Loyal Customers,1,Potential / Growing
+10791,160,3,234.91000000000003,3,2,1,6,Needs Attention,3,Low Value
+10792,97,2,182.01000000000002,3,1,1,5,Needs Attention,3,Low Value
+10793,243,2,553.2800000000001,2,1,2,5,Lost,1,Potential / Growing
+10794,168,4,922.74,2,3,2,7,About to Sleep,1,Potential / Growing
+10795,265,1,771.23,1,1,2,4,Lost,1,Potential / Growing
+10796,89,5,1813.94,4,3,3,10,Loyal Customers,0,Loyal Customers
+10797,231,3,2036.08,2,2,3,7,About to Sleep,1,Potential / Growing
+10798,165,2,287.73,3,1,1,5,Needs Attention,3,Low Value
+10799,235,1,1012.0699999999999,2,1,2,5,Lost,1,Potential / Growing
+10800,82,5,678.22,4,3,2,9,Loyal Customers,1,Potential / Growing
+10801,31,5,2460.99,5,3,4,12,Loyal Customers,0,Loyal Customers
+10802,243,1,122.13,2,1,1,4,Lost,3,Low Value
+10803,149,2,536.62,3,1,1,5,Needs Attention,1,Potential / Growing
+10804,96,1,552.83,3,1,2,6,Needs Attention,3,Low Value
+10805,135,9,3030.7799999999997,3,4,4,11,Loyal Customers,0,Loyal Customers
+10806,274,1,146.31,1,1,1,3,Lost,3,Low Value
+10807,161,2,126.79999999999998,3,1,1,5,Needs Attention,3,Low Value
+10808,81,4,650.44,4,3,2,9,Loyal Customers,1,Potential / Growing
+10809,169,4,329.67999999999995,2,3,1,6,About to Sleep,1,Potential / Growing
+10810,191,1,185.94,2,1,1,4,Lost,3,Low Value
+10811,134,3,304.72,3,2,1,6,Needs Attention,1,Potential / Growing
+10812,186,5,1340.95,2,3,3,8,About to Sleep,1,Potential / Growing
+10813,115,3,986.3299999999999,3,2,2,7,Needs Attention,1,Potential / Growing
+10814,202,1,124.11,2,1,1,4,Lost,3,Low Value
+10815,114,3,1597.64,3,2,3,8,Needs Attention,1,Potential / Growing
+10816,216,5,2166.88,2,3,4,9,About to Sleep,1,Potential / Growing
+10817,128,3,230.75,3,2,1,6,Needs Attention,3,Low Value
+10818,181,7,3056.1,2,4,4,10,At Risk,0,Loyal Customers
+10819,177,2,942.58,2,1,2,5,Lost,1,Potential / Growing
+10820,200,4,505.47,2,3,1,6,About to Sleep,1,Potential / Growing
+10821,172,6,1140.56,2,4,2,8,At Risk,1,Potential / Growing
+10822,123,3,987.4200000000001,3,2,2,7,Needs Attention,1,Potential / Growing
+10823,159,2,182.47,3,1,1,5,Needs Attention,3,Low Value
+10824,208,2,369.51,2,1,1,4,Lost,3,Low Value
+10825,115,3,1184.29,3,2,3,8,Needs Attention,1,Potential / Growing
+10826,272,2,365.19,1,1,1,3,Lost,3,Low Value
+10827,278,1,173.32,1,1,1,3,Lost,3,Low Value
+10828,189,3,745.27,2,2,2,6,About to Sleep,1,Potential / Growing
+10829,295,2,234.57999999999998,1,1,1,3,Lost,3,Low Value
+10830,149,3,1034.3200000000002,3,2,2,7,Needs Attention,1,Potential / Growing
+10831,173,4,1747.25,2,3,3,8,About to Sleep,1,Potential / Growing
+10832,189,2,952.1700000000001,2,1,2,5,Lost,1,Potential / Growing
+10833,166,2,1582.21,2,1,3,6,Lost,1,Potential / Growing
+10834,212,2,76.58,2,1,1,4,Lost,3,Low Value
+10835,122,2,268.48,3,1,1,5,Needs Attention,3,Low Value
+10836,169,4,1273.5,2,3,3,8,About to Sleep,1,Potential / Growing
+10837,159,3,1489.92,3,2,3,8,Needs Attention,1,Potential / Growing
+10838,176,3,853.22,2,2,2,6,About to Sleep,1,Potential / Growing
+10839,198,3,393.32,2,2,1,5,About to Sleep,1,Potential / Growing
+10840,163,3,810.09,3,2,2,7,Needs Attention,1,Potential / Growing
+10841,110,2,964.1,3,1,2,6,Needs Attention,1,Potential / Growing
+10842,123,3,1392.1,3,2,3,8,Needs Attention,1,Potential / Growing
+10843,185,4,2047.42,2,3,3,8,About to Sleep,1,Potential / Growing
+10844,234,4,2109.84,2,3,4,9,About to Sleep,1,Potential / Growing
+10845,103,4,486.13,3,3,1,7,Loyal Customers,1,Potential / Growing
+10846,263,3,1760.72,1,2,3,6,About to Sleep,1,Potential / Growing
+10847,92,3,1209.3899999999999,4,2,3,9,New / Promising,1,Potential / Growing
+10848,232,3,438.29,2,2,1,5,About to Sleep,1,Potential / Growing
+10849,262,1,211.5,1,1,1,3,Lost,3,Low Value
+10850,199,3,1527.1,2,2,3,7,About to Sleep,1,Potential / Growing
+10851,195,1,49.21,2,1,1,4,Lost,3,Low Value
+10852,153,1,135.24,3,1,1,5,Needs Attention,3,Low Value
+10853,116,4,520.27,3,3,1,7,Loyal Customers,1,Potential / Growing
+10854,171,4,1710.71,2,3,3,8,About to Sleep,1,Potential / Growing
+10855,236,1,1168.35,2,1,3,6,Lost,1,Potential / Growing
+10856,194,6,2617.59,2,4,4,10,At Risk,0,Loyal Customers
+10857,180,3,640.5799999999999,2,2,2,6,About to Sleep,1,Potential / Growing
+10858,208,2,143.24,2,1,1,4,Lost,3,Low Value
+10859,208,3,1254.04,2,2,3,7,About to Sleep,1,Potential / Growing
+10860,285,1,98.25,1,1,1,3,Lost,3,Low Value
+10861,324,1,380.15999999999997,1,1,1,3,Lost,3,Low Value
+10862,164,2,154.45,3,1,1,5,Needs Attention,3,Low Value
+10863,154,2,455.90000000000003,3,1,1,5,Needs Attention,1,Potential / Growing
+10864,151,5,548.0,3,3,2,8,Loyal Customers,1,Potential / Growing
+10865,213,2,617.19,2,1,2,5,Lost,1,Potential / Growing
+10866,281,3,1710.98,1,2,3,6,About to Sleep,1,Potential / Growing
+10867,164,2,688.27,3,1,2,6,Needs Attention,1,Potential / Growing
+10868,229,6,3399.21,2,4,4,10,At Risk,0,Loyal Customers
+10869,147,5,2035.64,3,3,3,9,Loyal Customers,1,Potential / Growing
+10870,118,6,3408.45,3,4,4,11,Loyal Customers,0,Loyal Customers
+10871,201,1,195.38,2,1,1,4,Lost,3,Low Value
+10872,123,1,91.13,3,1,1,5,Needs Attention,3,Low Value
+10873,154,3,954.31,3,2,2,7,Needs Attention,1,Potential / Growing
+10874,56,6,1748.3999999999999,4,4,3,11,Champions,0,Loyal Customers
+10875,166,3,533.88,2,2,1,5,About to Sleep,1,Potential / Growing
+10876,110,6,947.63,3,4,2,9,Loyal Customers,0,Loyal Customers
+10877,149,2,979.9699999999999,3,1,2,6,Needs Attention,1,Potential / Growing
+10878,188,3,1132.01,2,2,2,6,About to Sleep,1,Potential / Growing
+10879,284,1,98.42,1,1,1,3,Lost,3,Low Value
+10880,212,3,455.14,2,2,1,5,About to Sleep,1,Potential / Growing
+10881,90,3,546.9300000000001,4,2,1,7,New / Promising,1,Potential / Growing
+10882,311,1,344.49,1,1,1,3,Lost,3,Low Value
+10883,85,2,568.5,4,1,2,7,New / Promising,1,Potential / Growing
+10884,71,5,1269.22,4,3,3,10,Loyal Customers,0,Loyal Customers
+10885,168,3,317.63,2,2,1,5,About to Sleep,1,Potential / Growing
+10886,191,5,1804.82,2,3,3,8,About to Sleep,1,Potential / Growing
+10887,167,7,2695.49,2,4,4,10,At Risk,0,Loyal Customers
+10888,90,4,1705.2599999999998,4,3,3,10,Loyal Customers,0,Loyal Customers
+10889,296,1,26.02,1,1,1,3,Lost,3,Low Value
+10890,94,5,2375.5,3,3,4,10,Loyal Customers,0,Loyal Customers
+10891,185,3,1296.97,2,2,3,7,About to Sleep,1,Potential / Growing
+10892,122,5,973.65,3,3,2,8,Loyal Customers,1,Potential / Growing
+10893,137,2,1451.2,3,1,3,7,Needs Attention,1,Potential / Growing
+10894,93,3,690.4,3,2,2,7,Needs Attention,1,Potential / Growing
+10895,91,3,892.39,4,2,2,8,New / Promising,1,Potential / Growing
+10896,196,3,810.4,2,2,2,6,About to Sleep,1,Potential / Growing
+10897,199,2,279.98,2,1,1,4,Lost,3,Low Value
+10898,150,3,358.47,3,2,1,6,Needs Attention,1,Potential / Growing
+10899,216,5,1044.6699999999998,2,3,2,7,About to Sleep,1,Potential / Growing
+10900,150,2,550.6500000000001,3,1,2,6,Needs Attention,1,Potential / Growing
+10901,90,4,668.86,4,3,2,9,Loyal Customers,1,Potential / Growing
+10902,154,3,776.6800000000001,3,2,2,7,Needs Attention,1,Potential / Growing
+10903,144,2,517.31,3,1,1,5,Needs Attention,1,Potential / Growing
+10904,189,1,906.36,2,1,2,5,Lost,1,Potential / Growing
+10905,255,1,450.7,2,1,1,4,Lost,3,Low Value
+10906,105,2,349.95,3,1,1,5,Needs Attention,3,Low Value
+10907,166,3,505.05,2,2,1,5,About to Sleep,1,Potential / Growing
+10908,204,1,265.59000000000003,2,1,1,4,Lost,3,Low Value
+10909,215,5,1400.2,2,3,3,8,About to Sleep,1,Potential / Growing
+10910,139,3,1092.65,3,2,2,7,Needs Attention,1,Potential / Growing
+10911,305,1,62.4,1,1,1,3,Lost,3,Low Value
+10912,211,3,600.79,2,2,2,6,About to Sleep,1,Potential / Growing
+10913,166,4,490.6,2,3,1,6,About to Sleep,1,Potential / Growing
+10914,205,4,496.81999999999994,2,3,1,6,About to Sleep,1,Potential / Growing
+10915,89,2,689.87,4,2,2,8,New / Promising,1,Potential / Growing
+10916,170,2,425.01,2,2,1,5,About to Sleep,3,Low Value
+10917,157,3,799.87,3,2,2,7,Needs Attention,1,Potential / Growing
+10918,160,1,136.11,3,1,1,5,Needs Attention,3,Low Value
+10919,188,4,848.54,2,3,2,7,About to Sleep,1,Potential / Growing
+10920,96,2,501.78,3,2,1,6,Needs Attention,1,Potential / Growing
+10921,149,2,738.0600000000001,3,2,2,7,Needs Attention,1,Potential / Growing
+10922,70,1,676.5999999999999,4,1,2,7,New / Promising,1,Potential / Growing
+10923,204,1,14.14,2,1,1,4,Lost,3,Low Value
+10924,219,2,719.04,2,2,2,6,About to Sleep,1,Potential / Growing
+10925,83,4,397.39,4,3,1,8,Loyal Customers,1,Potential / Growing
+10926,209,3,470.27,2,2,1,5,About to Sleep,1,Potential / Growing
+10927,322,1,173.32,1,1,1,3,Lost,3,Low Value
+10928,79,4,411.25,4,3,1,8,Loyal Customers,1,Potential / Growing
+10929,67,1,637.14,4,1,2,7,New / Promising,1,Potential / Growing
+10930,164,2,336.95,3,2,1,6,Needs Attention,3,Low Value
+10931,119,7,1357.26,3,4,3,10,Loyal Customers,0,Loyal Customers
+10932,137,3,272.38,3,2,1,6,Needs Attention,3,Low Value
+10933,221,3,605.3,2,2,2,6,About to Sleep,1,Potential / Growing
+10934,125,5,1846.83,3,3,3,9,Loyal Customers,0,Loyal Customers
+10935,258,1,39.2,2,1,1,4,Lost,3,Low Value
+10936,231,1,232.29000000000002,2,1,1,4,Lost,3,Low Value
+10937,164,2,1071.8,3,2,2,7,Needs Attention,1,Potential / Growing
+10938,199,2,413.34000000000003,2,2,1,5,About to Sleep,3,Low Value
+10939,119,5,1114.52,3,3,2,8,Loyal Customers,1,Potential / Growing
+10940,240,4,570.9599999999999,2,3,2,7,About to Sleep,1,Potential / Growing
+10941,201,3,1689.67,2,2,3,7,About to Sleep,1,Potential / Growing
+10942,104,5,2187.59,3,3,4,10,Loyal Customers,0,Loyal Customers
+10943,175,3,683.28,2,2,2,6,About to Sleep,1,Potential / Growing
+10944,251,1,356.83000000000004,2,1,1,4,Lost,3,Low Value
+10945,173,3,113.4,2,2,1,5,About to Sleep,3,Low Value
+10946,81,1,120.89,4,1,1,6,New / Promising,3,Low Value
+10947,158,4,2545.1400000000003,3,3,4,10,Loyal Customers,1,Potential / Growing
+10948,134,5,1316.48,3,3,3,9,Loyal Customers,1,Potential / Growing
+10949,322,1,234.39,1,1,1,3,Lost,3,Low Value
+10950,267,1,659.4399999999999,1,1,2,4,Lost,3,Low Value
+10951,160,1,33.13,3,1,1,5,Needs Attention,3,Low Value
+10952,157,2,146.18,3,2,1,6,Needs Attention,3,Low Value
+10953,204,1,90.46,2,1,1,4,Lost,3,Low Value
+10954,90,5,1648.19,4,3,3,10,Loyal Customers,0,Loyal Customers
+10955,172,4,1019.71,2,3,2,7,About to Sleep,1,Potential / Growing
+10956,205,2,1169.1999999999998,2,2,3,7,About to Sleep,1,Potential / Growing
+10957,241,4,1642.41,2,3,3,8,About to Sleep,1,Potential / Growing
+10958,192,1,69.78,2,1,1,4,Lost,3,Low Value
+10959,125,4,715.8199999999999,3,3,2,8,Loyal Customers,1,Potential / Growing
+10960,142,1,249.08999999999997,3,1,1,5,Needs Attention,3,Low Value
+10961,309,1,332.1,1,1,1,3,Lost,3,Low Value
+10962,220,2,586.76,2,2,2,6,About to Sleep,1,Potential / Growing
+10963,183,3,865.53,2,2,2,6,About to Sleep,1,Potential / Growing
+10964,139,3,444.78999999999996,3,2,1,6,Needs Attention,1,Potential / Growing
+10965,248,2,1007.59,2,2,2,6,About to Sleep,1,Potential / Growing
+10966,249,1,214.48000000000002,2,1,1,4,Lost,3,Low Value
+10967,144,3,1017.04,3,2,2,7,Needs Attention,1,Potential / Growing
+10968,309,1,17.04,1,1,1,3,Lost,3,Low Value
+10969,102,2,411.65,3,2,1,6,Needs Attention,1,Potential / Growing
+10970,244,1,348.81,2,1,1,4,Lost,3,Low Value
+10971,137,4,1840.14,3,3,3,9,Loyal Customers,1,Potential / Growing
+10972,138,3,456.61,3,2,1,6,Needs Attention,1,Potential / Growing
+10973,174,3,458.28000000000003,2,2,1,5,About to Sleep,1,Potential / Growing
+10974,192,1,281.77,2,1,1,4,Lost,3,Low Value
+10975,176,5,1676.98,2,3,3,8,About to Sleep,1,Potential / Growing
+10976,146,5,1878.23,3,3,3,9,Loyal Customers,1,Potential / Growing
+10977,195,4,846.5899999999999,2,3,2,7,About to Sleep,1,Potential / Growing
+10978,254,1,422.43,2,1,1,4,Lost,3,Low Value
+10979,112,3,578.14,3,2,2,7,Needs Attention,1,Potential / Growing
+10980,102,1,80.48,3,1,1,5,Needs Attention,3,Low Value
+10981,96,1,276.3,3,1,1,5,Needs Attention,3,Low Value
+10982,220,3,187.44,2,2,1,5,About to Sleep,3,Low Value
+10983,185,3,341.31,2,2,1,5,About to Sleep,1,Potential / Growing
+10984,163,2,1626.9299999999998,3,2,3,8,Needs Attention,1,Potential / Growing
+10985,169,1,293.56,2,1,1,4,Lost,3,Low Value
+10986,148,4,688.54,3,3,2,8,Loyal Customers,1,Potential / Growing
+10987,85,4,718.97,4,3,2,9,Loyal Customers,1,Potential / Growing
+10988,274,2,421.19,1,2,1,4,About to Sleep,3,Low Value
+10989,137,7,3399.98,3,4,4,11,Loyal Customers,0,Loyal Customers
+10990,182,3,742.3700000000001,2,2,2,6,About to Sleep,1,Potential / Growing
+10991,224,3,756.01,2,2,2,6,About to Sleep,1,Potential / Growing
+10992,169,1,569.1800000000001,2,1,2,5,Lost,3,Low Value
+10993,93,1,323.43,3,1,1,5,Needs Attention,3,Low Value
+10994,152,5,1643.88,3,3,3,9,Loyal Customers,1,Potential / Growing
+10995,169,3,402.85,2,2,1,5,About to Sleep,1,Potential / Growing
+10996,130,2,926.6800000000001,3,2,2,7,Needs Attention,1,Potential / Growing
+10997,151,3,528.13,3,2,1,6,Needs Attention,1,Potential / Growing
+10998,160,5,1704.0,3,3,3,9,Loyal Customers,1,Potential / Growing
+10999,195,3,1667.2199999999998,2,2,3,7,About to Sleep,1,Potential / Growing
+11000,132,8,2697.71,3,4,4,11,Loyal Customers,0,Loyal Customers
+11001,163,5,2961.2100000000005,3,3,4,10,Loyal Customers,0,Loyal Customers
+11002,171,2,175.84,2,2,1,5,About to Sleep,3,Low Value
+11003,162,4,1070.18,3,3,2,8,Loyal Customers,1,Potential / Growing
+11004,87,9,2099.95,4,4,3,11,Champions,0,Loyal Customers
+11005,148,3,1095.07,3,2,2,7,Needs Attention,1,Potential / Growing
+11006,110,7,1798.24,3,4,3,10,Loyal Customers,0,Loyal Customers
+11007,117,4,1553.3400000000001,3,3,3,9,Loyal Customers,1,Potential / Growing
+11008,252,2,488.99,2,2,1,5,About to Sleep,1,Potential / Growing
+11009,182,4,603.48,2,3,2,7,About to Sleep,1,Potential / Growing
+11010,86,5,1546.79,4,3,3,10,Loyal Customers,0,Loyal Customers
+11011,147,3,780.71,3,2,2,7,Needs Attention,1,Potential / Growing
+11012,226,1,60.24,2,1,1,4,Lost,3,Low Value
+11013,170,7,2929.0299999999997,2,4,4,10,At Risk,0,Loyal Customers
+11014,204,2,457.21000000000004,2,2,1,5,About to Sleep,1,Potential / Growing
+11015,147,1,39.64,3,1,1,5,Needs Attention,3,Low Value
+11016,188,1,694.25,2,1,2,5,Lost,3,Low Value
+11017,135,6,288.43,3,4,1,8,Loyal Customers,1,Potential / Growing
+11018,91,5,1930.22,4,3,3,10,Loyal Customers,0,Loyal Customers
+11019,89,2,993.73,4,2,2,8,New / Promising,1,Potential / Growing
+11020,187,3,680.84,2,2,2,6,About to Sleep,1,Potential / Growing
+11021,236,1,583.3,2,1,2,5,Lost,3,Low Value
+11022,259,2,1115.38,2,2,2,6,About to Sleep,1,Potential / Growing
+11023,191,1,1080.11,2,1,2,5,Lost,1,Potential / Growing
+11024,272,2,266.89,1,2,1,4,About to Sleep,3,Low Value
+11025,147,6,1781.72,3,4,3,10,Loyal Customers,0,Loyal Customers
+11026,168,4,713.31,2,3,2,7,About to Sleep,1,Potential / Growing
+11027,227,2,273.81,2,2,1,5,About to Sleep,3,Low Value
+11028,258,2,1193.44,2,2,3,7,About to Sleep,1,Potential / Growing
+11029,176,5,1679.83,2,3,3,8,About to Sleep,1,Potential / Growing
+11030,102,3,1328.12,3,2,3,8,Needs Attention,1,Potential / Growing
+11031,188,2,443.5,2,2,1,5,About to Sleep,3,Low Value
+11032,169,4,682.01,2,3,2,7,About to Sleep,1,Potential / Growing
+11033,234,3,652.8399999999999,2,2,2,6,About to Sleep,1,Potential / Growing
+11034,184,4,1208.95,2,3,3,8,About to Sleep,1,Potential / Growing
+11035,191,4,862.1899999999999,2,3,2,7,About to Sleep,1,Potential / Growing
+11036,94,6,1586.17,3,4,3,10,Loyal Customers,0,Loyal Customers
+11037,218,2,832.09,2,2,2,6,About to Sleep,1,Potential / Growing
+11038,128,5,965.02,3,3,2,8,Loyal Customers,1,Potential / Growing
+11039,185,3,952.55,2,2,2,6,About to Sleep,1,Potential / Growing
+11040,280,1,824.34,1,1,2,4,Lost,1,Potential / Growing
+11041,96,1,78.09,3,1,1,5,Needs Attention,3,Low Value
+11042,180,1,26.02,2,1,1,4,Lost,3,Low Value
+11043,145,4,3264.33,3,3,4,10,Loyal Customers,1,Potential / Growing
+11044,186,2,504.01,2,2,1,5,About to Sleep,1,Potential / Growing
+11045,229,2,484.77,2,2,1,5,About to Sleep,1,Potential / Growing
+11046,54,3,926.32,4,2,2,8,New / Promising,1,Potential / Growing
+11047,150,4,682.05,3,3,2,8,Loyal Customers,1,Potential / Growing
+11048,125,4,1784.23,3,3,3,9,Loyal Customers,1,Potential / Growing
+11049,173,4,2076.48,2,3,3,8,About to Sleep,1,Potential / Growing
+11050,78,2,134.16,4,2,1,7,New / Promising,3,Low Value
+11051,55,5,1706.7,4,3,3,10,Loyal Customers,0,Loyal Customers
+11052,149,4,718.99,3,3,2,8,Loyal Customers,1,Potential / Growing
+11053,186,8,2240.01,2,4,4,10,At Risk,0,Loyal Customers
+11054,132,3,1143.5900000000001,3,2,2,7,Needs Attention,1,Potential / Growing
+11055,94,4,1152.5,3,3,2,8,Loyal Customers,1,Potential / Growing
+11056,187,1,204.78,2,1,1,4,Lost,3,Low Value
+11057,191,2,301.46,2,2,1,5,About to Sleep,3,Low Value
+11058,119,6,2181.25,3,4,4,11,Loyal Customers,0,Loyal Customers
+11059,112,5,1435.04,3,3,3,9,Loyal Customers,0,Loyal Customers
+11060,176,1,293.56,2,1,1,4,Lost,3,Low Value
+11061,134,1,92.21000000000001,3,1,1,5,Needs Attention,3,Low Value
+11062,177,3,1281.55,2,2,3,7,About to Sleep,1,Potential / Growing
+11063,177,3,238.38,2,2,1,5,About to Sleep,3,Low Value
+11064,227,1,365.62,2,1,1,4,Lost,3,Low Value
+11065,221,2,1222.72,2,2,3,7,About to Sleep,1,Potential / Growing
+11066,144,2,726.7,3,2,2,7,Needs Attention,1,Potential / Growing
+11067,149,4,1193.99,3,3,3,9,Loyal Customers,1,Potential / Growing
+11068,220,2,1423.93,2,2,3,7,About to Sleep,1,Potential / Growing
+11069,239,1,232.41,2,1,1,4,Lost,3,Low Value
+11070,153,2,215.98000000000002,3,2,1,6,Needs Attention,3,Low Value
+11071,133,4,1590.8400000000001,3,3,3,9,Loyal Customers,1,Potential / Growing
+11072,136,1,20.24,3,1,1,5,Needs Attention,3,Low Value
+11073,139,7,2118.39,3,4,4,11,Loyal Customers,0,Loyal Customers
+11074,288,3,1808.04,1,2,3,6,About to Sleep,1,Potential / Growing
+11075,149,2,351.64,3,2,1,6,Needs Attention,3,Low Value
+11076,288,1,61.650000000000006,1,1,1,3,Lost,3,Low Value
+11077,131,2,229.62,3,2,1,6,Needs Attention,3,Low Value
+11078,95,5,1181.86,3,3,3,9,Loyal Customers,0,Loyal Customers
+11079,219,2,415.31,2,2,1,5,About to Sleep,3,Low Value
+11080,167,3,734.07,2,2,2,6,About to Sleep,1,Potential / Growing
+11081,206,2,415.03000000000003,2,2,1,5,About to Sleep,3,Low Value
+11082,202,1,833.13,2,1,2,5,Lost,1,Potential / Growing
+11083,135,5,1771.17,3,3,3,9,Loyal Customers,1,Potential / Growing
+11084,134,3,657.24,3,2,2,7,Needs Attention,1,Potential / Growing
+11085,122,1,11.36,3,1,1,5,Needs Attention,3,Low Value
+11086,110,2,390.11999999999995,3,2,1,6,Needs Attention,3,Low Value
+11087,177,4,1584.58,2,3,3,8,About to Sleep,1,Potential / Growing
+11088,147,1,349.77,3,1,1,5,Needs Attention,3,Low Value
+11089,109,5,1580.06,3,3,3,9,Loyal Customers,0,Loyal Customers
+11090,132,3,138.49,3,2,1,6,Needs Attention,3,Low Value
+11091,182,3,1795.64,2,2,3,7,About to Sleep,1,Potential / Growing
+11092,147,1,607.6600000000001,3,1,2,6,Needs Attention,3,Low Value
+11093,119,2,150.05,3,2,1,6,Needs Attention,3,Low Value
+11094,122,4,1323.47,3,3,3,9,Loyal Customers,1,Potential / Growing
+11095,129,5,2044.6,3,3,3,9,Loyal Customers,0,Loyal Customers
+11096,282,2,73.76,1,2,1,4,About to Sleep,3,Low Value
+11097,72,3,141.32,4,2,1,7,New / Promising,3,Low Value
+11098,161,1,402.51,3,1,1,5,Needs Attention,3,Low Value
+11099,106,4,1550.29,3,3,3,9,Loyal Customers,1,Potential / Growing
+11100,128,4,1684.11,3,3,3,9,Loyal Customers,1,Potential / Growing
+11101,103,3,199.22,3,2,1,6,Needs Attention,3,Low Value
+11102,79,2,110.24000000000001,4,2,1,7,New / Promising,3,Low Value
+11103,197,3,754.66,2,2,2,6,About to Sleep,1,Potential / Growing
+11104,167,6,1257.26,2,4,3,9,At Risk,1,Potential / Growing
+11105,180,3,952.6300000000001,2,2,2,6,About to Sleep,1,Potential / Growing
+11106,169,3,673.95,2,2,2,6,About to Sleep,1,Potential / Growing
+11107,130,1,259.98,3,1,1,5,Needs Attention,3,Low Value
+11108,185,2,466.94,2,2,1,5,About to Sleep,1,Potential / Growing
+11109,179,1,126.36,2,1,1,4,Lost,3,Low Value
+11110,223,1,68.19,2,1,1,4,Lost,3,Low Value
+11111,189,3,1564.9199999999998,2,2,3,7,About to Sleep,1,Potential / Growing
+11112,205,3,1253.45,2,2,3,7,About to Sleep,1,Potential / Growing
+11113,143,6,1534.5500000000002,3,4,3,10,Loyal Customers,0,Loyal Customers
+11114,201,2,156.11,2,2,1,5,About to Sleep,3,Low Value
+11115,167,3,1270.9,2,2,3,7,About to Sleep,1,Potential / Growing
+11116,189,1,96.48,2,1,1,4,Lost,3,Low Value
+11117,90,2,735.19,4,2,2,8,New / Promising,1,Potential / Growing
+11118,95,4,1055.17,3,3,2,8,Loyal Customers,1,Potential / Growing
+11119,92,1,147.63,4,1,1,6,New / Promising,3,Low Value
+11120,170,5,1355.33,2,3,3,8,About to Sleep,1,Potential / Growing
+11121,172,3,379.99,2,2,1,5,About to Sleep,1,Potential / Growing
+11122,123,4,1419.93,3,3,3,9,Loyal Customers,1,Potential / Growing
+11123,220,1,382.95,2,1,1,4,Lost,3,Low Value
+11124,199,3,1391.94,2,2,3,7,About to Sleep,1,Potential / Growing
+11125,255,3,505.43,2,2,1,5,About to Sleep,1,Potential / Growing
+11126,260,3,589.53,1,2,2,5,About to Sleep,1,Potential / Growing
+11127,351,1,922.7499999999999,1,1,2,4,Lost,1,Potential / Growing
+11128,268,4,2692.88,1,3,4,8,About to Sleep,1,Potential / Growing
+11129,275,1,263.57,1,1,1,3,Lost,3,Low Value
+11130,252,2,2463.65,2,2,4,8,About to Sleep,1,Potential / Growing
+11131,306,4,3808.95,1,3,4,8,About to Sleep,1,Potential / Growing
+11132,251,3,1338.9699999999998,2,2,3,7,About to Sleep,1,Potential / Growing
+11133,299,2,475.14,1,2,1,4,About to Sleep,3,Low Value
+11134,295,3,2252.1,1,2,4,7,About to Sleep,1,Potential / Growing
+11135,295,2,945.04,1,2,2,5,About to Sleep,1,Potential / Growing
+11136,313,1,1323.05,1,1,3,5,Lost,1,Potential / Growing
+11137,280,4,2753.9,1,3,4,8,About to Sleep,1,Potential / Growing
+11138,317,1,698.2,1,1,2,4,Lost,3,Low Value
+11139,204,5,2367.27,2,3,4,9,About to Sleep,1,Potential / Growing
+11140,359,1,1195.29,1,1,3,5,Lost,1,Potential / Growing
+11141,317,2,131.67,1,2,1,4,About to Sleep,3,Low Value
+11142,259,3,409.29,2,2,1,5,About to Sleep,1,Potential / Growing
+11143,205,4,728.29,2,3,2,7,About to Sleep,1,Potential / Growing
+11144,244,1,611.76,2,1,2,5,Lost,3,Low Value
+11145,230,2,907.29,2,2,2,6,About to Sleep,1,Potential / Growing
+11146,327,2,1045.52,1,2,2,5,About to Sleep,1,Potential / Growing
+11147,234,5,5432.34,2,3,5,10,About to Sleep,0,Loyal Customers
+11148,234,3,2998.54,2,2,4,8,About to Sleep,1,Potential / Growing
+11149,313,2,986.39,1,2,2,5,About to Sleep,1,Potential / Growing
+11150,299,1,905.7300000000001,1,1,2,4,Lost,1,Potential / Growing
+11151,334,1,648.3000000000001,1,1,2,4,Lost,3,Low Value
+11152,268,3,865.04,1,2,2,5,About to Sleep,1,Potential / Growing
+11153,270,3,908.5500000000001,1,2,2,5,About to Sleep,1,Potential / Growing
+11154,218,4,940.44,2,3,2,7,About to Sleep,1,Potential / Growing
+11155,323,2,867.89,1,2,2,5,About to Sleep,1,Potential / Growing
+11156,320,1,628.02,1,1,2,4,Lost,3,Low Value
+11157,182,5,1181.76,2,3,3,8,About to Sleep,1,Potential / Growing
+11158,345,1,730.8000000000001,1,1,2,4,Lost,3,Low Value
+11159,248,2,1444.52,2,2,3,7,About to Sleep,1,Potential / Growing
+11160,239,3,1103.1299999999999,2,2,2,6,About to Sleep,1,Potential / Growing
+11161,290,2,123.9,1,2,1,4,About to Sleep,3,Low Value
+11162,246,4,1774.55,2,3,3,8,About to Sleep,1,Potential / Growing
+11163,180,2,1530.79,2,2,3,7,About to Sleep,1,Potential / Growing
+11164,239,4,994.27,2,3,2,7,About to Sleep,1,Potential / Growing
+11165,303,1,25.36,1,1,1,3,Lost,3,Low Value
+11166,344,2,1369.6100000000001,1,2,3,6,About to Sleep,1,Potential / Growing
+11167,183,4,1050.6299999999999,2,3,2,7,About to Sleep,1,Potential / Growing
+11168,194,3,1104.3899999999999,2,2,2,6,About to Sleep,1,Potential / Growing
+11169,276,2,2013.33,1,2,3,6,About to Sleep,1,Potential / Growing
+11170,361,2,1000.2,1,2,2,5,About to Sleep,1,Potential / Growing
+11171,297,2,1192.19,1,2,3,6,About to Sleep,1,Potential / Growing
+11172,332,1,293.56,1,1,1,3,Lost,3,Low Value
+11173,331,2,665.2,1,2,2,5,About to Sleep,1,Potential / Growing
+11174,315,2,2620.45,1,2,4,7,About to Sleep,1,Potential / Growing
+11175,262,1,544.24,1,1,1,3,Lost,3,Low Value
+11176,292,5,4785.05,1,3,5,9,About to Sleep,1,Potential / Growing
+11177,258,4,392.5,2,3,1,6,About to Sleep,1,Potential / Growing
+11178,256,3,1306.5900000000001,2,2,3,7,About to Sleep,1,Potential / Growing
+11179,322,2,831.4000000000001,1,2,2,5,About to Sleep,1,Potential / Growing
+11180,319,3,619.38,1,2,2,5,About to Sleep,1,Potential / Growing
+11181,244,2,555.24,2,2,2,6,About to Sleep,1,Potential / Growing
+11182,342,2,588.2199999999999,1,2,2,5,About to Sleep,1,Potential / Growing
+11183,299,2,488.48,1,2,1,4,About to Sleep,1,Potential / Growing
+11184,230,4,1214.5,2,3,3,8,About to Sleep,1,Potential / Growing
+11185,329,3,747.83,1,2,2,5,About to Sleep,1,Potential / Growing
+11186,265,1,122.85,1,1,1,3,Lost,3,Low Value
+11187,352,1,134.59,1,1,1,3,Lost,3,Low Value
+11188,289,5,2766.5699999999997,1,3,4,8,About to Sleep,1,Potential / Growing
+11189,286,1,478.88,1,1,1,3,Lost,3,Low Value
+11190,259,1,511.97,2,1,1,4,Lost,3,Low Value
+11191,276,1,9.18,1,1,1,3,Lost,3,Low Value
+11192,290,1,576.33,1,1,2,4,Lost,3,Low Value
+11193,333,3,607.38,1,2,2,5,About to Sleep,1,Potential / Growing
+11194,249,3,2154.02,2,2,4,8,About to Sleep,1,Potential / Growing
+11195,297,1,1144.27,1,1,2,4,Lost,1,Potential / Growing
+11196,251,1,3101.19,2,1,4,7,Lost,1,Potential / Growing
+11197,298,1,324.49,1,1,1,3,Lost,3,Low Value
+11198,275,1,406.64,1,1,1,3,Lost,3,Low Value
+11199,202,3,2602.13,2,2,4,8,About to Sleep,1,Potential / Growing
+11200,305,1,404.28,1,1,1,3,Lost,3,Low Value
+11201,222,5,3067.54,2,3,4,9,About to Sleep,1,Potential / Growing
+11202,281,2,384.69,1,2,1,4,About to Sleep,3,Low Value
+11203,281,3,2142.5699999999997,1,2,4,7,About to Sleep,1,Potential / Growing
+11204,229,3,2228.19,2,2,4,8,About to Sleep,1,Potential / Growing
+11205,308,4,1624.32,1,3,3,7,About to Sleep,1,Potential / Growing
+11206,319,1,183.48,1,1,1,3,Lost,3,Low Value
+11207,327,2,878.19,1,2,2,5,About to Sleep,1,Potential / Growing
+11208,226,1,331.12,2,1,1,4,Lost,3,Low Value
+11209,259,5,4012.2200000000003,2,3,5,10,About to Sleep,1,Potential / Growing
+11210,299,2,1897.8899999999999,1,2,3,6,About to Sleep,1,Potential / Growing
+11211,295,1,217.78,1,1,1,3,Lost,3,Low Value
+11212,267,3,498.25,1,2,1,4,About to Sleep,1,Potential / Growing
+11213,327,2,1036.81,1,2,2,5,About to Sleep,1,Potential / Growing
+11214,326,1,22.44,1,1,1,3,Lost,3,Low Value
+11215,326,2,612.3199999999999,1,2,2,5,About to Sleep,1,Potential / Growing
+11216,255,1,192.96,2,1,1,4,Lost,3,Low Value
+11217,330,4,1516.67,1,3,3,7,About to Sleep,1,Potential / Growing
+11218,361,1,60.24,1,1,1,3,Lost,3,Low Value
+11219,346,1,402.51,1,1,1,3,Lost,3,Low Value
+11220,335,1,742.46,1,1,2,4,Lost,3,Low Value
+11221,232,5,5230.870000000001,2,3,5,10,About to Sleep,0,Loyal Customers
+11222,327,2,1237.08,1,2,3,6,About to Sleep,1,Potential / Growing
+11223,228,1,597.9599999999999,2,1,2,5,Lost,3,Low Value
+11224,260,1,1228.9900000000002,1,1,3,5,Lost,1,Potential / Growing
+11225,263,1,1519.2800000000002,1,1,3,5,Lost,1,Potential / Growing
+11226,254,1,723.04,2,1,2,5,Lost,3,Low Value
+11227,302,4,839.38,1,3,2,6,About to Sleep,1,Potential / Growing
+11228,324,3,341.15,1,2,1,4,About to Sleep,3,Low Value
+11229,272,1,29.13,1,1,1,3,Lost,3,Low Value
+11230,350,1,943.63,1,1,2,4,Lost,1,Potential / Growing
+11231,291,2,270.7,1,2,1,4,About to Sleep,3,Low Value
+11232,254,2,801.4100000000001,2,2,2,6,About to Sleep,1,Potential / Growing
+11233,343,1,85.08,1,1,1,3,Lost,3,Low Value
+11234,267,1,519.12,1,1,1,3,Lost,3,Low Value
+11235,339,1,320.22,1,1,1,3,Lost,3,Low Value
+11236,286,2,430.24,1,2,1,4,About to Sleep,3,Low Value
+11237,189,2,616.11,2,2,2,6,About to Sleep,1,Potential / Growing
+11238,325,3,1013.97,1,2,2,5,About to Sleep,1,Potential / Growing
+11239,287,1,491.94,1,1,1,3,Lost,3,Low Value
+11240,229,3,427.58,2,2,1,5,About to Sleep,1,Potential / Growing
+11241,301,4,623.3,1,3,2,6,About to Sleep,1,Potential / Growing
+11242,266,5,2959.89,1,3,4,8,About to Sleep,1,Potential / Growing
+11243,257,2,604.77,2,2,2,6,About to Sleep,1,Potential / Growing
+11244,167,1,764.03,2,1,2,5,Lost,1,Potential / Growing
+11245,215,4,3290.27,2,3,4,9,About to Sleep,1,Potential / Growing
+11246,342,2,1908.3400000000001,1,2,3,6,About to Sleep,1,Potential / Growing
+11247,318,1,64.04,1,1,1,3,Lost,3,Low Value
+11248,296,3,1459.18,1,2,3,6,About to Sleep,1,Potential / Growing
+11249,257,7,1293.91,2,4,3,9,At Risk,1,Potential / Growing
+11250,270,1,38.04,1,1,1,3,Lost,3,Low Value
+11251,356,1,232.93,1,1,1,3,Lost,3,Low Value
+11252,348,1,672.38,1,1,2,4,Lost,3,Low Value
+11253,255,1,2193.37,2,1,4,7,Lost,1,Potential / Growing
+11254,286,4,411.78,1,3,1,5,About to Sleep,1,Potential / Growing
+11255,255,4,2382.59,2,3,4,9,About to Sleep,1,Potential / Growing
+11256,292,1,210.23000000000002,1,1,1,3,Lost,3,Low Value
+11257,342,2,1164.8400000000001,1,2,3,6,About to Sleep,1,Potential / Growing
+11258,268,2,445.88,1,2,1,4,About to Sleep,3,Low Value
+11259,274,6,4717.24,1,4,5,10,At Risk,0,Loyal Customers
+11260,298,1,244.74,1,1,1,3,Lost,3,Low Value
+11261,227,3,3737.81,2,2,4,8,About to Sleep,1,Potential / Growing
+11262,345,1,645.96,1,1,2,4,Lost,3,Low Value
+11263,319,2,739.78,1,2,2,5,About to Sleep,1,Potential / Growing
+11264,258,4,2316.5299999999997,2,3,4,9,About to Sleep,1,Potential / Growing
+11265,242,3,702.02,2,2,2,6,About to Sleep,1,Potential / Growing
+11266,307,1,349.1,1,1,1,3,Lost,3,Low Value
+11267,276,2,3443.2799999999997,1,2,4,7,About to Sleep,1,Potential / Growing
+11268,262,2,1151.87,1,2,2,5,About to Sleep,1,Potential / Growing
+11269,325,1,167.63,1,1,1,3,Lost,3,Low Value
+11270,331,1,134.17,1,1,1,3,Lost,3,Low Value
+11271,306,2,1166.5300000000002,1,2,3,6,About to Sleep,1,Potential / Growing
+11272,297,2,2078.86,1,2,3,6,About to Sleep,1,Potential / Growing
+11273,307,4,4296.74,1,3,5,9,About to Sleep,1,Potential / Growing
+11274,284,2,864.47,1,2,2,5,About to Sleep,1,Potential / Growing
+11275,305,1,144.29,1,1,1,3,Lost,3,Low Value
+11276,315,1,1042.87,1,1,2,4,Lost,1,Potential / Growing
+11277,305,5,1861.17,1,3,3,7,About to Sleep,1,Potential / Growing
+11278,256,4,668.9,2,3,2,7,About to Sleep,1,Potential / Growing
+11279,260,2,149.31,1,2,1,4,About to Sleep,3,Low Value
+11280,279,2,1324.21,1,2,3,6,About to Sleep,1,Potential / Growing
+11281,349,1,632.69,1,1,2,4,Lost,3,Low Value
+11282,277,1,740.2800000000001,1,1,2,4,Lost,3,Low Value
+11283,359,1,1224.1999999999998,1,1,3,5,Lost,1,Potential / Growing
+11284,338,1,558.58,1,1,2,4,Lost,3,Low Value
+11285,313,1,28.28,1,1,1,3,Lost,3,Low Value
+11286,228,6,4000.54,2,4,5,11,At Risk,0,Loyal Customers
+11287,330,2,839.23,1,2,2,5,About to Sleep,1,Potential / Growing
+11288,331,2,192.5,1,2,1,4,About to Sleep,3,Low Value
+11289,337,3,2229.8599999999997,1,2,4,7,About to Sleep,1,Potential / Growing
+11290,310,2,805.1600000000001,1,2,2,5,About to Sleep,1,Potential / Growing
+11291,352,1,22.15,1,1,1,3,Lost,3,Low Value
+11292,306,1,180.34,1,1,1,3,Lost,3,Low Value
+11293,315,1,440.34000000000003,1,1,1,3,Lost,3,Low Value
+11294,311,1,430.62,1,1,1,3,Lost,3,Low Value
+11295,299,3,481.34000000000003,1,2,1,4,About to Sleep,1,Potential / Growing
+11296,316,2,1812.58,1,2,3,6,About to Sleep,1,Potential / Growing
+11297,263,1,1072.96,1,1,2,4,Lost,1,Potential / Growing
+11298,232,3,2282.19,2,2,4,8,About to Sleep,1,Potential / Growing
+11299,303,2,500.03999999999996,1,2,1,4,About to Sleep,1,Potential / Growing
+11300,334,2,54.269999999999996,1,2,1,4,About to Sleep,3,Low Value
+11301,275,1,2107.62,1,1,4,6,Lost,1,Potential / Growing
+11302,307,1,520.47,1,1,1,3,Lost,3,Low Value
+11303,317,2,566.42,1,2,2,5,About to Sleep,1,Potential / Growing
+11304,284,4,1944.76,1,3,3,7,About to Sleep,1,Potential / Growing
+11305,270,7,3138.96,1,4,4,9,At Risk,0,Loyal Customers
+11306,289,2,893.95,1,2,2,5,About to Sleep,1,Potential / Growing
+11307,261,3,1524.78,1,2,3,6,About to Sleep,1,Potential / Growing
+11308,231,1,913.98,2,1,2,5,Lost,1,Potential / Growing
+11309,333,1,1022.88,1,1,2,4,Lost,1,Potential / Growing
+11310,279,1,585.1700000000001,1,1,2,4,Lost,3,Low Value
+11311,322,1,639.99,1,1,2,4,Lost,3,Low Value
+11312,313,1,1173.66,1,1,3,5,Lost,1,Potential / Growing
+11313,223,4,2482.8100000000004,2,3,4,9,About to Sleep,1,Potential / Growing
+11314,344,1,1295.61,1,1,3,5,Lost,1,Potential / Growing
+11315,237,3,1716.04,2,2,3,7,About to Sleep,1,Potential / Growing
+11316,206,2,348.66,2,2,1,5,About to Sleep,3,Low Value
+11317,288,4,3315.41,1,3,4,8,About to Sleep,1,Potential / Growing
+11318,308,1,178.62,1,1,1,3,Lost,3,Low Value
+11319,328,3,1428.9299999999998,1,2,3,6,About to Sleep,1,Potential / Growing
+11320,258,5,1683.1399999999999,2,3,3,8,About to Sleep,1,Potential / Growing
+11321,231,2,986.34,2,2,2,6,About to Sleep,1,Potential / Growing
+11322,298,2,214.66,1,2,1,4,About to Sleep,3,Low Value
+11323,259,2,1151.1299999999999,2,2,2,6,About to Sleep,1,Potential / Growing
+11324,324,2,103.59,1,2,1,4,About to Sleep,3,Low Value
+11325,326,3,2293.04,1,2,4,7,About to Sleep,1,Potential / Growing
+11326,352,1,651.6,1,1,2,4,Lost,3,Low Value
+11327,257,2,304.75,2,2,1,5,About to Sleep,3,Low Value
+11328,305,4,2064.59,1,3,3,7,About to Sleep,1,Potential / Growing
+11329,294,3,2120.05,1,2,4,7,About to Sleep,1,Potential / Growing
+11330,280,4,3524.58,1,3,4,8,About to Sleep,1,Potential / Growing
+11331,274,3,308.77,1,2,1,4,About to Sleep,3,Low Value
+11332,357,1,136.68,1,1,1,3,Lost,3,Low Value
+11333,162,3,908.58,3,2,2,7,Needs Attention,1,Potential / Growing
+11334,286,1,403.15999999999997,1,1,1,3,Lost,3,Low Value
+11335,278,1,347.32,1,1,1,3,Lost,3,Low Value
+11336,348,1,747.28,1,1,2,4,Lost,3,Low Value
+11337,274,1,1644.26,1,1,3,5,Lost,1,Potential / Growing
+11338,318,1,846.14,1,1,2,4,Lost,1,Potential / Growing
+11339,257,1,1657.22,2,1,3,6,Lost,1,Potential / Growing
+11340,161,2,1644.51,3,2,3,8,Needs Attention,1,Potential / Growing
+11341,317,3,2722.0899999999997,1,2,4,7,About to Sleep,1,Potential / Growing
+11342,341,3,4603.570000000001,1,2,5,8,About to Sleep,1,Potential / Growing
+11343,338,1,608.8,1,1,2,4,Lost,3,Low Value
+11344,265,4,1298.88,1,3,3,7,About to Sleep,1,Potential / Growing
+11345,323,1,59.14,1,1,1,3,Lost,3,Low Value
+11346,358,1,435.87,1,1,1,3,Lost,3,Low Value
+11347,277,1,85.08,1,1,1,3,Lost,3,Low Value
+11348,229,5,3282.49,2,3,4,9,About to Sleep,1,Potential / Growing
+11349,278,3,3593.42,1,2,4,7,About to Sleep,1,Potential / Growing
+11350,177,1,66.84,2,1,1,4,Lost,3,Low Value
+11351,338,1,28.62,1,1,1,3,Lost,3,Low Value
+11352,233,2,368.26,2,2,1,5,About to Sleep,3,Low Value
+11353,330,1,562.49,1,1,2,4,Lost,3,Low Value
+11354,286,3,1922.4,1,2,3,6,About to Sleep,1,Potential / Growing
+11355,289,2,3015.21,1,2,4,7,About to Sleep,1,Potential / Growing
+11356,346,1,981.5799999999999,1,1,2,4,Lost,1,Potential / Growing
+11357,195,4,593.18,2,3,2,7,About to Sleep,1,Potential / Growing
+11358,317,1,812.33,1,1,2,4,Lost,1,Potential / Growing
+11359,311,1,371.33,1,1,1,3,Lost,3,Low Value
+11360,339,2,2689.63,1,2,4,7,About to Sleep,1,Potential / Growing
+11361,287,3,1074.72,1,3,2,6,About to Sleep,1,Potential / Growing
+11362,330,1,298.13,1,1,1,3,Lost,3,Low Value
+11363,342,1,28.28,1,1,1,3,Lost,3,Low Value
+11364,339,1,37.68,1,1,1,3,Lost,3,Low Value
+11365,314,1,320.22,1,1,1,3,Lost,3,Low Value
+11366,276,4,3369.71,1,3,4,8,About to Sleep,1,Potential / Growing
+11367,348,1,955.86,1,1,2,4,Lost,1,Potential / Growing
+11368,321,2,134.18,1,2,1,4,About to Sleep,3,Low Value
+11369,322,2,732.9000000000001,1,2,2,5,About to Sleep,1,Potential / Growing
+11370,345,1,619.2,1,1,2,4,Lost,3,Low Value
+11371,354,1,435.42,1,1,1,3,Lost,3,Low Value
+11372,327,2,525.45,1,2,1,4,About to Sleep,1,Potential / Growing
+11373,344,2,136.01999999999998,1,2,1,4,About to Sleep,3,Low Value
+11374,320,1,619.82,1,1,2,4,Lost,3,Low Value
+11375,269,1,1010.74,1,1,2,4,Lost,1,Potential / Growing
+11376,250,1,16.950000000000003,2,1,1,4,Lost,3,Low Value
+11377,254,3,2971.11,2,3,4,9,About to Sleep,1,Potential / Growing
+11378,301,1,146.61,1,1,1,3,Lost,3,Low Value
+11379,301,2,1428.95,1,2,3,6,About to Sleep,1,Potential / Growing
+11380,283,2,800.3299999999999,1,2,2,5,About to Sleep,1,Potential / Growing
+11381,286,1,1231.82,1,1,3,5,Lost,1,Potential / Growing
+11382,264,4,1137.59,1,3,2,6,About to Sleep,1,Potential / Growing
+11383,248,2,1031.31,2,2,2,6,About to Sleep,1,Potential / Growing
+11384,309,3,1869.18,1,3,3,7,About to Sleep,1,Potential / Growing
+11385,291,5,1415.8100000000002,1,3,3,7,About to Sleep,1,Potential / Growing
+11386,265,1,29.57,1,1,1,3,Lost,3,Low Value
+11387,188,3,1339.6,2,3,3,8,About to Sleep,1,Potential / Growing
+11388,335,2,889.6400000000001,1,2,2,5,About to Sleep,1,Potential / Growing
+11389,340,2,1470.0100000000002,1,2,3,6,About to Sleep,1,Potential / Growing
+11390,303,2,1455.44,1,2,3,6,About to Sleep,1,Potential / Growing
+11391,151,2,288.36,3,2,1,6,Needs Attention,3,Low Value
+11392,310,1,125.94,1,1,1,3,Lost,3,Low Value
+11393,355,1,243.62,1,1,1,3,Lost,3,Low Value
+11394,337,1,685.61,1,1,2,4,Lost,3,Low Value
+11395,183,2,1135.3200000000002,2,2,2,6,About to Sleep,1,Potential / Growing
+11396,242,3,1253.13,2,3,3,8,About to Sleep,1,Potential / Growing
+11397,236,2,1090.71,2,2,2,6,About to Sleep,1,Potential / Growing
+11398,322,3,1151.94,1,3,2,6,About to Sleep,1,Potential / Growing
+11399,131,5,2202.89,3,3,4,10,Loyal Customers,0,Loyal Customers
+11400,334,1,973.7,1,1,2,4,Lost,1,Potential / Growing
+11401,360,1,83.42999999999999,1,1,1,3,Lost,3,Low Value
+11402,314,3,795.98,1,3,2,6,About to Sleep,1,Potential / Growing
+11403,322,2,1227.12,1,2,3,6,About to Sleep,1,Potential / Growing
+11404,204,4,2571.73,2,3,4,9,About to Sleep,1,Potential / Growing
+11405,343,1,576.71,1,1,2,4,Lost,3,Low Value
+11406,189,2,446.69999999999993,2,2,1,5,About to Sleep,1,Potential / Growing
+11407,307,3,1615.05,1,3,3,7,About to Sleep,1,Potential / Growing
+11408,211,1,399.26,2,1,1,4,Lost,3,Low Value
+11409,346,1,591.42,1,1,2,4,Lost,3,Low Value
+11410,269,2,1016.29,1,2,2,5,About to Sleep,1,Potential / Growing
+11411,267,1,98.25,1,1,1,3,Lost,3,Low Value
+11412,211,3,758.19,2,3,2,7,About to Sleep,1,Potential / Growing
+11413,336,2,1125.04,1,2,2,5,About to Sleep,1,Potential / Growing
+11414,346,1,44.21,1,1,1,3,Lost,3,Low Value
+11415,311,1,272.79999999999995,1,1,1,3,Lost,3,Low Value
+11416,258,3,1017.0999999999999,2,3,2,7,About to Sleep,1,Potential / Growing
+11417,282,3,837.36,1,3,2,6,About to Sleep,1,Potential / Growing
+11418,272,1,479.3,1,1,1,3,Lost,3,Low Value
+11419,333,2,3014.71,1,2,4,7,About to Sleep,1,Potential / Growing
+11420,249,2,864.68,2,2,2,6,About to Sleep,1,Potential / Growing
+11421,292,3,2466.71,1,3,4,8,About to Sleep,1,Potential / Growing
+11422,233,3,2049.05,2,3,3,8,About to Sleep,1,Potential / Growing
+11423,283,3,1030.82,1,3,2,6,About to Sleep,1,Potential / Growing
+11424,241,3,1389.89,2,3,3,8,About to Sleep,1,Potential / Growing
+11425,247,2,969.3100000000001,2,2,2,6,About to Sleep,1,Potential / Growing
+11426,289,2,1635.32,1,2,3,6,About to Sleep,1,Potential / Growing
+11427,295,2,566.25,1,2,2,5,About to Sleep,1,Potential / Growing
+11428,266,1,1473.97,1,1,3,5,Lost,1,Potential / Growing
+11429,272,2,1017.95,1,2,2,5,About to Sleep,1,Potential / Growing
+11430,273,1,26.81,1,1,1,3,Lost,3,Low Value
+11431,249,3,789.7,2,3,2,7,About to Sleep,1,Potential / Growing
+11432,234,1,366.08,2,1,1,4,Lost,3,Low Value
+11433,272,3,1726.48,1,3,3,7,About to Sleep,1,Potential / Growing
+11434,337,1,78.32,1,1,1,3,Lost,3,Low Value
+11435,354,1,289.56,1,1,1,3,Lost,3,Low Value
+11436,183,2,1670.56,2,2,3,7,About to Sleep,1,Potential / Growing
+11437,200,3,1460.61,2,3,3,8,About to Sleep,1,Potential / Growing
+11438,315,1,1648.1699999999998,1,1,3,5,Lost,1,Potential / Growing
+11439,235,3,2315.2700000000004,2,3,4,9,About to Sleep,1,Potential / Growing
+11440,341,1,70.88,1,1,1,3,Lost,3,Low Value
+11441,194,4,2685.53,2,3,4,9,About to Sleep,1,Potential / Growing
+11442,187,3,2047.07,2,3,3,8,About to Sleep,1,Potential / Growing
+11443,242,2,330.24,2,2,1,5,About to Sleep,3,Low Value
+11444,265,4,3689.0,1,3,4,8,About to Sleep,1,Potential / Growing
+11445,191,2,879.16,2,2,2,6,About to Sleep,1,Potential / Growing
+11446,211,3,4670.72,2,3,5,10,About to Sleep,1,Potential / Growing
+11447,211,4,2813.81,2,3,4,9,About to Sleep,1,Potential / Growing
+11448,290,1,118.47,1,1,1,3,Lost,3,Low Value
+11449,304,1,100.71,1,1,1,3,Lost,3,Low Value
+11450,317,1,417.90999999999997,1,1,1,3,Lost,3,Low Value
+11451,211,1,2367.92,2,1,4,7,Lost,1,Potential / Growing
+11452,134,4,1436.0,3,3,3,9,Loyal Customers,1,Potential / Growing
+11453,299,3,1445.26,1,3,3,7,About to Sleep,1,Potential / Growing
+11454,246,3,1787.13,2,3,3,8,About to Sleep,1,Potential / Growing
+11455,251,1,637.24,2,1,2,5,Lost,3,Low Value
+11456,258,2,721.2,2,2,2,6,About to Sleep,1,Potential / Growing
+11457,215,4,527.16,2,3,1,6,About to Sleep,1,Potential / Growing
+11458,267,4,502.48,1,3,1,5,About to Sleep,1,Potential / Growing
+11459,261,3,961.9100000000001,1,3,2,6,About to Sleep,1,Potential / Growing
+11460,329,1,606.84,1,1,2,4,Lost,3,Low Value
+11461,331,2,821.48,1,2,2,5,About to Sleep,1,Potential / Growing
+11462,304,2,1419.03,1,2,3,6,About to Sleep,1,Potential / Growing
+11463,150,5,2985.78,3,3,4,10,Loyal Customers,0,Loyal Customers
+11464,304,3,3343.73,1,3,4,8,About to Sleep,1,Potential / Growing
+11465,159,3,925.43,3,3,2,8,Loyal Customers,1,Potential / Growing
+11466,290,3,1677.09,1,3,3,7,About to Sleep,1,Potential / Growing
+11467,312,2,1167.8899999999999,1,2,3,6,About to Sleep,1,Potential / Growing
+11468,319,1,1435.01,1,1,3,5,Lost,1,Potential / Growing
+11469,280,3,1156.99,1,3,3,7,About to Sleep,1,Potential / Growing
+11470,260,1,1550.44,1,1,3,5,Lost,1,Potential / Growing
+11471,355,1,680.9399999999999,1,1,2,4,Lost,3,Low Value
+11472,321,3,4086.25,1,3,5,9,About to Sleep,1,Potential / Growing
+11473,280,1,187.07999999999998,1,1,1,3,Lost,3,Low Value
+11474,243,1,289.44,2,1,1,4,Lost,3,Low Value
+11475,261,1,180.34,1,1,1,3,Lost,3,Low Value
+11476,349,1,914.4200000000001,1,1,2,4,Lost,1,Potential / Growing
+11477,292,1,1151.63,1,1,2,4,Lost,1,Potential / Growing
+11478,279,1,808.4100000000001,1,1,2,4,Lost,1,Potential / Growing
+11479,175,2,687.36,2,2,2,6,About to Sleep,1,Potential / Growing
+11480,250,4,4553.62,2,3,5,10,About to Sleep,1,Potential / Growing
+11481,203,1,968.94,2,1,2,5,Lost,1,Potential / Growing
+11482,261,2,2354.7300000000005,1,2,4,7,About to Sleep,1,Potential / Growing
+11483,335,1,150.99,1,1,1,3,Lost,3,Low Value
+11484,322,1,720.81,1,1,2,4,Lost,3,Low Value
+11485,317,1,145.49,1,1,1,3,Lost,3,Low Value
+11486,283,2,2419.95,1,2,4,7,About to Sleep,1,Potential / Growing
+11487,329,1,121.81,1,1,1,3,Lost,3,Low Value
+11488,193,4,1582.65,2,3,3,8,About to Sleep,1,Potential / Growing
+11489,297,2,727.11,1,2,2,5,About to Sleep,1,Potential / Growing
+11490,311,2,2299.78,1,2,4,7,About to Sleep,1,Potential / Growing
+11491,342,1,102.14999999999999,1,1,1,3,Lost,3,Low Value
+11492,230,5,2186.16,2,3,4,9,About to Sleep,1,Potential / Growing
+11493,302,1,439.78,1,1,1,3,Lost,3,Low Value
+11494,300,1,181.69,1,1,1,3,Lost,3,Low Value
+11495,317,1,721.26,1,1,2,4,Lost,3,Low Value
+11496,336,1,464.3,1,1,1,3,Lost,3,Low Value
+11497,329,1,87.22999999999999,1,1,1,3,Lost,3,Low Value
+11498,333,2,362.44,1,2,1,4,About to Sleep,3,Low Value
+11499,215,6,3866.33,2,4,4,10,At Risk,0,Loyal Customers
+11500,293,3,1345.16,1,3,3,7,About to Sleep,1,Potential / Growing
